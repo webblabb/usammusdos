@@ -20,7 +20,7 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 <a href="" class="btn btn-primary">USDOS R Package</a>
 
-[USDOS User Manual](https://github.com/webblabb/usammusdos/blob/master/literature/USDOS_User_Manual.pdf)
+<a href="/literature/USDOS_User_Manual.pdf" class="btn btn-primary">USDOS User Manual</a>
 
 # U.S. Disease Outbreak Simulation Model Literature
 
