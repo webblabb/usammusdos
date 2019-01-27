@@ -53,4 +53,18 @@ Lindström T., S. Sternberg Lewerin, and Wennergren, U. (2012). Influence on dis
 
 ## Expert opinion reports
 
-[Detail reports](detail_reports.html)
+[United States movement survey report](/literature/United States Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Iowa movement survey report](/literature/Iowa Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Minnesota movement survey report](/literature/Minnesota Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[New York movement survey report](/literature/New York Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Oklahoma movement survey report](/literature/Oklahoma Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Tennessee movement survey report](/literature/Tennessee Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Texas movement survey report](/literature/Texas Cattle Movement Survey Report.pdf){:target="_blank"}
+
+[Wisconsin movement survey report](/literature/Wisconsin Cattle Movement Survey Report.pdf){:target="_blank"}
