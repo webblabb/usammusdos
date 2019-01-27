@@ -1,0 +1,45 @@
+entries:
+- title: sidebar
+  product: USDOS
+  version: 2.1.1
+  folders:
+
+    - title: Getting started
+      output: web
+      folderitems:
+      - title: Overview
+        output: web
+        url: /usdos.html
+      - title: License
+        output: web
+        url: /usdos_license.html
+      - title: Installation
+        output: web
+        url: /installation.html
+      - title: Model structure
+        output: web
+        url: /structure.html
+    - title: Running the model
+      output: web
+      folderitems:
+      - title: Pipeline
+        output: web
+        url: /pipeline.html
+      - title: Inputs
+        output: web
+        url: /inputs.html
+      - title: Config file
+        output: web
+        url: /config.html
+      - title: Outputs
+        output: web
+        url: /outputs.html
+    - title: Batch runs
+      output: web
+      folderitems:
+      - title: Setting up a batch runs
+        output: web
+        url: /batch.html
+      - title: Processing outputs of batch run
+        output: web
+        url: /processing.html

@@ -1,0 +1,8 @@
+entries:
+- title: sidebar
+  product: Shiny apps
+  version: 0.0.1
+  folders:
+
+    - title: Getting started
+      output: web

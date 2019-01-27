@@ -1,0 +1,30 @@
+entries:
+- title: sidebar
+  folders:
+
+  - title: About
+    output: web
+    folderitems:
+    - title: Objectives
+      output: web
+      url: /about.html
+
+    - title: Philosophy
+      output: web
+      url: /about.html#philosophy
+
+    - title: People
+      output: web
+      url: /about.html#people
+
+    - title: Directions
+      output: web
+      url: /about.html#directions
+
+    - title: Literature
+      output: web
+      url: /about.html#literature
+
+    - title: FAQ
+      output: web
+      url: /about.html#faq

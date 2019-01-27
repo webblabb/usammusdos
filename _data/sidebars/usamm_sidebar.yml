@@ -1,0 +1,33 @@
+entries:
+- title: sidebar
+  product: USAMM
+  version: 3.0.0
+  folders:
+
+    - title: Getting started
+      output: web
+      folderitems:
+      - title: Overview
+        output: web
+        url: /usamm.html
+      - title: License
+        output: web
+        url: /usamm_license.html
+    - title: Running USAMM
+      output: web
+      folderitems:
+      - title: Inputs
+        output: web
+        url: /usamm_inputs.html
+      - title: Outputs
+        output: web
+        url: /usamm_outputs.html
+    - title: Network realizations
+      output: web
+      folderitems:
+      - title: Using generated networks
+        output: web
+        url: /generated_networks.html
+      - title: Generating new realizations in USDOS
+        output: web
+        url: /new_networks.html
