@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/webblabb
+      external_url: https://github.com/webblabb/USDOSv2.1
     - title: About
       url: /about
     - title: Shiny
