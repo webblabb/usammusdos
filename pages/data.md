@@ -23,7 +23,7 @@ Portacci, K, R.S. Miller, P.D. Riggs, M.G. Buhnerkempe, and L.M. Abrahamsen. (20
 
 ## Spatial and temporal patterns of U.S. swine shipments
 
-Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. In review. Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection.
+Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2019. Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection. [Scientific Reports](https://doi.org/10.1038/s41598-019-40556-z)
 
 ## Bovine tuberculosis in the U.S.
 
