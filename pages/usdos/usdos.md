@@ -22,6 +22,8 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 <a href="/literature/USDOS_User_Manual.pdf" class="btn btn-primary">USDOS User Manual</a>
 
+| <img src = "images/usdos.jpg" style = "width:200px"> | USDOS Workflow Diagram  |
+
 # U.S. Disease Outbreak Simulation Model Literature
 
 Buhnerkempe MG, Tildesley MJ, Lindström T, Grear DA, Portacci K, et al. 2014. The Impact of Movements and Animal Density on Continental Scale Cattle Disease Outbreaks in the United States. [PLoS ONE. 9(3)](https://doi.org/10.1371/journal.pone.0091724).
