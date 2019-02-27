@@ -22,7 +22,7 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 <a href="/literature/USDOS_User_Manual.pdf" class="btn btn-primary">USDOS User Manual</a>
 
-## USDOS Workflow Diagram
+<a href="/literature/main.pdf" class="btn btn-primary">USDOS Workflow Diagram</a>
 
 | <img src = "images/usdos.jpg" style = "width:600px">  |
 
