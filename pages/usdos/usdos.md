@@ -20,7 +20,7 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 <a href="" class="btn btn-primary">USDOS R Package</a>
 
-<a href="literature/USDOS_User_Manual.pdf" class="btn btn-primary">USDOS User Manual</a>
+<a href="literature/USDOS_UserManual.pdf" class="btn btn-primary">USDOS User Manual</a>
 
 <a href="literature/main.pdf" class="btn btn-primary">USDOS Workflow Diagram</a>
 
