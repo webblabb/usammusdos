@@ -58,7 +58,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Research Fellow <br/> Affiliations: London School of Hygiene and Tropical Medicine <br/> Role: Senior Personnel <br/> Contact info: Amanda.Minter@lshtm.ac.uk |
 
-| <img src = "images/0.jpg" style = "width:200px"> | **Deedra Murrieta** - <br/> Title: Research Assistant <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: deedra.murrieta@gmail.com |
+| <img src = "images/0.jpg" style = "width:200px"> | **Deedra Murrieta** - <br/> Title: Research Associate <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: deedra.murrieta@gmail.com |
 
 | <img src = "images/Owers_Headshot.jpg" style = "width:200px"> | **Katie Owers** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Colorado State University, Department of Biology and USDA APHIS Center for Epidemiology and Animal Health <br/> Role: Senior Personnel <br/> Contact info: k.owers@colostate.edu |
 
