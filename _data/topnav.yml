@@ -7,7 +7,7 @@ topnav:
       external_url: https://github.com/webblabb/USDOSv2.1
     - title: About
       url: /about
-    - title: Shiny
+    - title: Visualizations
       url: /shiny
     - title: Data
       url: /data

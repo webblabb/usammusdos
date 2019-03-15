@@ -45,13 +45,13 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Run</h4>
-                     <p>Instructions and documentation.</p>
-                     <a href="run.html" class="btn btn-primary">Learn More</a>
+                     <h4>Data</h4>
+                     <p>Description of data sources.</p>
+                     <a href="data.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -60,13 +60,13 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Data</h4>
-                     <p>Description of data sources.</p>
-                     <a href="data.html" class="btn btn-primary">Learn More</a>
+                     <h4>Run</h4>
+                     <p>Instructions and documentation.</p>
+                     <a href="run.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
