@@ -42,7 +42,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Senior lecturer <br/> Affiliations: Department of Physics, Chemistry and Biology/Division of Theoretical Biology. Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
 
-| <img src = "images/LindsayBeckJohnson.jpg" style = "width:200px"> | **Lindsay Beck Johnson** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: l.beck-johnson@colostate.edu |
+| <img src = "images/LindsayBeckJohnson.jpg" style = "width:200px"> | **Lindsay Beck Johnson** - <br/> Title: Research Scientist <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: l.beck-johnson@colostate.edu |
 
 | <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD Student <br/> Affiliations: Linköping University <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
@@ -77,6 +77,8 @@ USAMM - Current work will enhance USAMM predictions to include the size of cattl
 USDOS - Current work will incorporate a within-herd component to USDOS and allow investigation of slower-spreading disease outbreaks.  We are also working to transition USDOS to USDA for their direct use.  Future directions will include USDOS work that incorporates swine diseases once USAMM-Swine is completed.
 
 # Literature
+
+Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. Prev. Vet. Med. 162, 56–66. doi:10.1016/j.prevetmed.2018.11.002
 
 Lindström, T., Tildesley, M., Webb, C.T. 2015. A Bayesian ensemble approach for epidemiological projections. [PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1004187)
 
