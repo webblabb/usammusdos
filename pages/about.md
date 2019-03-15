@@ -78,7 +78,7 @@ USDOS - Current work will incorporate a within-herd component to USDOS and allow
 
 # Literature
 
-Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. Prev. Vet. Med. 162, 56–66. doi:10.1016/j.prevetmed.2018.11.002
+Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
 Lindström, T., Tildesley, M., Webb, C.T. 2015. A Bayesian ensemble approach for epidemiological projections. [PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1004187)
 
