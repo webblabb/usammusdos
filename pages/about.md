@@ -64,7 +64,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/portacci.png" style = "width:200px"> | **Katie Portacci** - <br/> Title: Veterinary Epidemiologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: Katie.Portacci@aphis.usda.gov |
 
-| <img src = "images/Stefan_Sellman.png" style = "width:200px"> | **Stefan Sellman** - <br/> Title: PhD Student <br/> Affiliations: Linköping University <br/> Role: Senior Personnel <br/> Contact info: stefan.sellman@liu.se |
+| <img src = "images/Stefan_Sellman.png" style = "width:200px"> | **Stefan Sellman** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Linköping University and University of Warwick <br/> Role: Senior Personnel <br/> Contact info: stefan.sellman@liu.se |
 
 | <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Technical Information Specialist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
 
