@@ -10,13 +10,18 @@ toc: false
 ---
 # Full Literature List
 
+Lindström, T., D. Grear, M. Buhnerkempe, C. Webb, R. Miller, K. Portacci, and U. Wennergren. 2013. A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network. PLoS ONE 8(1): e53432. doi:10.1371/journal.pone.0053432.
+
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. *Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States*. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
 Buhnerkempe, M.G., D.A. Grear, K. Portacci, R.S. Miller, J. Lombard, and C.T. Webb. 2013. *A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data*. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
 
-Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. *Predicting continental scale foot-and-mouth disease outbreaks in the United States*. [PLoS ONE 9(3)](https://doi.org/10.1371/journal.pone.0091724)
+Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. *The impact of movements and animal density on continental scale cattle disease outbreaks in the United States*. [PLoS ONE 9(3)](https://doi.org/10.1371/journal.pone.0091724)
 
-Gorsich, E., A.D. Luis, M.G. Buhnerkempe, D.A. Grear, K. Portacci, R.S. Miller, and C.T. Webb. 2016. Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011. [Preventive Veterinary Medicine, 134: 82-91](https://doi.org/10.1016/j.prevetmed.2016.09.023).
+
+Gorsich, E., A.D. Luis, M.G. Buhnerkempe, D.A. Grear, K. Portacci, R.S. Miller, and C.T. Webb. 2016. *Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011*. [Preventive Veterinary Medicine, 134: 82-91](https://doi.org/10.1016/j.prevetmed.2016.09.023).
+
+Gorsich, E. C.D. McKee, D.A. Grear, R.S. Miller, K. Portacci, T. Lindström, C.T. Webb. 2017. *Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S.*. [Preventive Veterinary Medicine, 150: 52-59](https://doi.org/10.1016/j.prevetmed.2017.12.004).
 
 Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., Wennergren, U. 2013. *A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network*. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
 
@@ -24,6 +29,8 @@ Lindström, T., Tildesley, M., Webb, C.T. 2015. *A Bayesian ensemble approach fo
 
 
 McKee, C., C. Hallman, C.T. Webb, T. Lindstrom, R.S. Miller, and K. Portacci. 2015. [*USAMM Shiny Visualization (R package)*](https://usamm-gen-net.shinyapps.io/usamm-gen-net/)
+
+Portacci, K, R.S. Miller, P.D. Riggs, M.G. Buhnerkempe, and L.M. Abrahamsen. 2013. Assessment of paper interstate certificates of veterinary inspection used to support disease tracing in cattle. [Journal of the American Veterinary Association 243(4): 555-560](https://doi.org/10.2460/javma.243.4.555).
 
 Tsao, K., Robbe-Austerman, S., Miller, R.S., Portacci, K., Grear, D.A., Webb, C. 2014. *Sources of bovine tuberculosis in the United States*. Infection, [Genetics and Evolution. 28C:137-143](https://doi.org/10.1016/j.meegid.2014.09.025)
 
