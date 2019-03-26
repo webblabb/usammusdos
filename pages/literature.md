@@ -48,7 +48,7 @@ Probert, W.J.M., K. Shea, C.J. Fonnesbeck, M.C. Runge, C.T. Webb, M.J. Tildesley
 
 Sellman, S., K. Tsao, M.J. Tildesley, P. Brommesson, C.T. Webb, U. Wennergren, M.J. Keeling, and T. Lindström. 2018. **Need for speed: Optimized gridding approaches for spatially explicit disease simulations**. [PloS Computational Biology.](https://doi.org/10.1371/journal.pcbi.1006086)
 
-Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a foot-and-mouth outbreak in the UK**. [Nature. 440(7080): 83-86.](https://doi.org/10.1038/nature04324)
+Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a foot-and-mouth outbreak in the UK**. [Nature, 440(7080): 83-86.](https://doi.org/10.1038/nature04324)
 
 Tildesley, M.J., V. Volkova, and M.E.J. Woolhouse. 2011. **Potential for Epidemic Take-off from the Primary Outbreak Farm via Livestock Movements**. [BMC Veterinary Research, 7:76.](https://doi.org/10.1186/1746-6148-7-76)
 
