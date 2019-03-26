@@ -80,17 +80,6 @@ USDOS - Current work will incorporate a within-herd component to USDOS and allow
 
 <a href="literature.html" class="btn btn-primary">Full Literature List</a>
 
-Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
-
-Lindström, T., Tildesley, M., Webb, C.T. 2015. A Bayesian ensemble approach for epidemiological projections. [PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1004187)
-
-Tsao, K., Robbe-Austerman, S., Miller, R.S., Portacci, K., Grear, D.A., Webb, C. 2014. Sources of bovine tuberculosis in the United States. Infection, [Genetics and Evolution. 28C:137-143](https://doi.org/10.1016/j.meegid.2014.09.025)
-
-Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. Predicting continental scale foot-and-mouth disease outbreaks in the United States. [PLoS ONE 9(3)](https://doi.org/10.1371/journal.pone.0091724)
-
-Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., Wennergren, U. 2013. A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
-
-Buhnerkempe, M.G., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Webb, C.T. 2013. A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
 
 # FAQ
 
