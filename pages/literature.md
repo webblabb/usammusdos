@@ -30,6 +30,8 @@ Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2
 
 Grear, D.A., J.B. Kaneene, J.J. Averill, and C.T. Webb. 2014. **Local cattle movments in response to ongoing bovine tuberculosis zonation and regulations in Michigan, USA**. [Preventative Veterinary Medicine. 114(3-4):201-12](https://doi.org/10.1016/j.prevetmed.2014.03.008).
 
+Lindström, T., S.A. Sisson, S.S. Lewerin, and U. Wennergren. 2011. **Bayesian analysis of animal movements related to factors at herd and between herd levels: Implications for disease spread modeling**. [Preventive veterinary medicine 98 (4), 230-242](https://doi.org/10.1016/j.prevetmed.2010.11.005)
+
 Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
 
 Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **SpecNet: A spatial network algorithm that generates a wide range of specific structures**. [PLoS ONE 7(8)](https://doi.org/10.1371/journal.pone.0042679).
