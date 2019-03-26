@@ -28,6 +28,8 @@ Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2
 
 Grear, D.A., J.B. Kaneene, J.J. Averill, and C.T. Webb. 2014. **Local cattle movments in response to ongoing bovine tuberculosis zonation and regulations in Michigan, USA**. [Preventative Veterinary Medicine. 114(3-4):201-12](https://doi.org/10.1016/j.prevetmed.2014.03.008).
 
+Lindström T., S. Sternberg Lewerin, and U. Wennergren, U. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
+
 Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **SpecNet: A spatial network algorithm that generates a wide range of specific structures**. [PLoS ONE 7(8)](https://doi.org/10.1371/journal.pone.0042679).
 
 Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., Wennergren, U. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
@@ -44,5 +46,5 @@ Tildesley, M.J. and S.J. Ryan. 2012. **Disease prevention versus data privacy: u
 
 Tsao, K., S. Robbe-Austerman, R.S. Miller, K. Portacci, D.A. Grear, and C.T. Webb. 2014. **Sources of bovine tuberculosis in the United States**. Infection, [Genetics and Evolution. 28C:137-143](https://doi.org/10.1016/j.meegid.2014.09.025)
 
-
+Webb, C.T., M.J. Ferrari, T. Lindström, T. Carpenter, S. Dürr, G. Garner, C. Jewell, M. Stevenson, M.P. Ward, M. Werkman, and M.J. Tildesley. 2017. **Ensemble Modeling and Structured Decision Making to Support Emergency Disease Management**. [Preventive Veterinary Medicine, 138: 124-133](https://doi.org/10.1016/j.prevetmed.2017.01.003)
 
