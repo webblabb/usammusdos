@@ -10,8 +10,6 @@ toc: false
 ---
 # Full Literature List
 
-Lindström, T., D. Grear, M. Buhnerkempe, C. Webb, R. Miller, K. Portacci, and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. PLoS ONE 8(1): e53432. doi:10.1371/journal.pone.0053432.
-
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
 Buhnerkempe, M.G., D.A. Grear, K. Portacci, R.S. Miller, J. Lombard, and C.T. Webb. 2013. **A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data**. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
@@ -28,11 +26,11 @@ Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2
 
 Grear, D.A., J.B. Kaneene, J.J. Averill, and C.T. Webb. 2014. **Local cattle movments in response to ongoing bovine tuberculosis zonation and regulations in Michigan, USA**. [Preventative Veterinary Medicine. 114(3-4):201-12](https://doi.org/10.1016/j.prevetmed.2014.03.008).
 
-Lindström T., S. Sternberg Lewerin, and U. Wennergren, U. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
+Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
 
 Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **SpecNet: A spatial network algorithm that generates a wide range of specific structures**. [PLoS ONE 7(8)](https://doi.org/10.1371/journal.pone.0042679).
 
-Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., Wennergren, U. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
+Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
 
 Lindström, T., Tildesley, M., Webb, C.T. 2015. **A Bayesian ensemble approach for epidemiological projections**. [PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1004187)
 
