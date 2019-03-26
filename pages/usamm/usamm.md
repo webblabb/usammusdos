@@ -21,4 +21,8 @@ Visualization of USAMM outputs are available through the USAMM Shiny App.  Gener
 
 Brommesson, P., U. Wennergren, and T. Lindström. 2016. **Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all**. [PloS One](https://doi.org/10.1371/journal.pone.0164008)
 
+Lindström, T., S.A. Sisson, S.S. Lewerin, and U. Wennergren. 2011. **Bayesian analysis of animal movements related to factors at herd and between herd levels: Implications for disease spread modeling**. [Preventive veterinary medicine 98 (4), 230-242](https://doi.org/10.1016/j.prevetmed.2010.11.005)
+
+Lindström, T., S.S. Lewerin, and U. Wennergren. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry.**  [Journal of The Royal Society Interface 9 (71), 1287-1294](https://doi.org/10.1098/rsif.2011.0625)
+
 Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
