@@ -19,6 +19,6 @@ Visualization of USAMM outputs are available through the USAMM Shiny App.  Gener
 
 # U.S. Animal Movement Model Literature
 
-Brommesson, P., U. Wennergren, and T. Lindström. (2016) Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all. [PloS One](https://doi.org/10.1371/journal.pone.0164008)
+Brommesson, P., U. Wennergren, and T. Lindström. 2016. **Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all**. [PloS One](https://doi.org/10.1371/journal.pone.0164008)
 
-Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., Wennergren, U. 2013. A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
+Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE](https://doi.org/10.1371/journal.pone.0053432)
