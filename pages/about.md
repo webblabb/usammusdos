@@ -78,7 +78,7 @@ USDOS - Current work will incorporate a within-herd component to USDOS and allow
 
 # Literature
 
-<a href="literature.html" class="btn btn-primary">Full Literature List</a>
+<a href="literature.md" class="btn btn-primary">Full Literature List</a>
 
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
