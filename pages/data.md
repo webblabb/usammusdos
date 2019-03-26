@@ -49,7 +49,7 @@ Webb, C.T., M.J. Ferrari, T. Lindström, T. Carpenter, S. Dürr, G. Garner, C. J
 
 ## Other modeling work
 
-Lindström T., S. Sternberg Lewerin, and U. Wennergren, U. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
+Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9: 1287-1294](https://doi.org/10.1098/rsif.2011.0625).
 
 ## Expert opinion reports
 
