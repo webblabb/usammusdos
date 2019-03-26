@@ -10,9 +10,9 @@ toc: false
 ---
 # Full Literature List
 
-Lindström, T., D. Grear, M. Buhnerkempe, C. Webb, R. Miller, K. Portacci, and U. Wennergren. 2013. A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network. PLoS ONE 8(1): e53432. doi:10.1371/journal.pone.0053432.
+Lindström, T., D. Grear, M. Buhnerkempe, C. Webb, R. Miller, K. Portacci, and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. PLoS ONE 8(1): e53432. doi:10.1371/journal.pone.0053432.
 
-Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. *Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States*. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
+Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
 Buhnerkempe, M.G., D.A. Grear, K. Portacci, R.S. Miller, J. Lombard, and C.T. Webb. 2013. *A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data*. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
 
