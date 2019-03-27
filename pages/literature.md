@@ -24,6 +24,8 @@ Brommesson, P., U. Wennergren, and T. Lindström. 2016. **Spatiotemporal variati
 
 Gorsich, E., A.D. Luis, M.G. Buhnerkempe, D.A. Grear, K. Portacci, R.S. Miller, and C.T. Webb. 2016. **Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011**. [Preventive Veterinary Medicine, 134: 82-91.](https://doi.org/10.1016/j.prevetmed.2016.09.023)
 
+Probert, W.J.M., K. Shea, C.J. Fonnesbeck, M.C. Runge, C.T. Webb, M.J. Tildesley, and M.J. Ferrari. 2016. **Decision-making for foot-and-mouth disease control: objectives matter**. [Epidemics 15: 10-19.](https://doi.org/10.1016/j.epidem.2015.11.002)
+
 Werkman, M, M.J. Tildesley, E. Brooks-Pollock, and M.J. Keeling. 2016. **Preserving privacy whilst maintaining robust epidemiological predictions**. [Epidemics (17): 35-41.](https://doi.org/10.1016/j.epidem.2016.10.004)
 
 Burdett, C.L., B.R. Kraus, S.J. Garza, R.S. Miller, and K.E. Bjork. 2015. **Simulating the Distribution of Individual Livestock Farms and Their Populations in the United States: An Example Using Domestic Swine (Sus scrofa domesticus) Farms**. [Plos One.](https://doi.org/10.1371/journal.pone.0140338)
@@ -33,8 +35,6 @@ Dawson P.M., M. Werkman, E. Brooks-Pollock, M.J. Tildesley. 2015. **Epidemic pre
 Lindström, T., Tildesley, M., Webb, C.T. 2015. **A Bayesian ensemble approach for epidemiological projections**. [PLoS Computational Biology.](https://doi.org/10.1371/journal.pcbi.1004187)
 
 McKee, C., C. Hallman, C.T. Webb, T. Lindstrom, R.S. Miller, and K. Portacci. 2015. [**USAMM Shiny Visualization (R package)**](https://usamm-gen-net.shinyapps.io/usamm-gen-net/)
-
-Probert, W.J.M., K. Shea, C.J. Fonnesbeck, M.C. Runge, C.T. Webb, M.J. Tildesley, and M.J. Ferrari. 2015. **Decision-making for foot-and-mouth disease control: objectives matter**. [Epidemics 15: 10-19.](https://doi.org/10.1016/j.epidem.2015.11.002)
 
 Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. **The impact of movements and animal density on continental scale cattle disease outbreaks in the United States**. [PLoS ONE 9(3)](https://doi.org/10.1371/journal.pone.0091724)
 
