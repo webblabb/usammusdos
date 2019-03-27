@@ -3,7 +3,7 @@ title: Data Characterization
 keywords:
 last_updated: July 14, 2017
 tags:
-summary: Because USAMM and USDOS are strongly data-based, we have developed and/or characterized a number of data sources.
+summary: Because USAMM and USDOS are strongly data-based, we have developed and/or characterized a number of data sources. Please see our <a href="about.html#faq">FAQ</a> for questions about data availability.
 sidebar:
 permalink: data.html
 folder: pages
