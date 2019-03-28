@@ -32,7 +32,7 @@ Our overall modeling philosophy has three main components:
 
 # People
 
-![group picture](images/group.jpeg)
+![group picture](images/GroupPhoto_March19.jpg)
 
 | <img src = "images/CTW_photo.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Professor <br/> Affiliations: Department of Biology and Graduate Degree Program in Ecology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
 
