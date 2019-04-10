@@ -34,6 +34,8 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 Buhnerkempe, M.G., D.A. Grear, K. Portacci, R.S. Miller, J. Lombard, and C.T. Webb. 2013. **A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data**. [Prev. Vet. Med.112: 318-329.](https://doi.org/10.1016/j.prevetmed.2013.08.002)
 
+Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. **The impact of movements and animal density on continental scale cattle disease outbreaks in the United States**. [PLoS ONE 9(3)](https://doi.org/10.1371/journal.pone.0091724)
+
 Burdett, C.L., B.R. Kraus, S.J. Garza, R.S. Miller, and K.E. Bjork. 2015. **Simulating the Distribution of Individual Livestock Farms and Their Populations in the United States: An Example Using Domestic Swine (Sus scrofa domesticus) Farms**. [Plos One.](https://doi.org/10.1371/journal.pone.0140338)
 
 Sellman, S., K. Tsao, M.J. Tildesley, P. Brommesson, C.T. Webb, U. Wennergren, M.J. Keeling, and T. Lindström. 2018. **Need for speed: Optimized gridding approaches for spatially explicit disease simulations**. [PloS Computational Biology.](https://doi.org/10.1371/journal.pcbi.1006086)
