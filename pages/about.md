@@ -3,7 +3,7 @@ title: About
 keywords: about
 last_updated: September 7, 2017
 tags:
-summary: Our overall goal is to provide strongly data-driven predictions of U.S. livestock shipments and simulations of livestock disease and to characterize uncertainty in these predictions in order to support decision-making in both response and planning contexts.  
+summary: Our overall goal is to provide strong, data-driven predictions of U.S. livestock shipments and simulations of livestock disease and to characterize uncertainty in these predictions in order to support decision-making in both response and planning contexts.  
 sidebar: about
 permalink: about.html
 folder: pages
