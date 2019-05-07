@@ -15,7 +15,7 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-book fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
