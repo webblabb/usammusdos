@@ -145,7 +145,7 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                             <div class="panel-body">
                                 Yes!  USAMM and USDOS code were created by our group and should be referenced appropriately whether you use them as is or as base code for your own modifications.  Suggested reference formats are:
 
-                                <p> To cite this page: Webb, et. al. 2018. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
+                                <p> To cite this page: Webb, C., U. Wennergren, T. Lindström, M.J. Tildesley, T. Dewey, and C. Leach. 2018. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
                                 </p>
 
                                 <p> To cite USDOS: U.S. Disease Outbreak Simulation (USDOS) [Computer Software]. 2018. Accessed (date) at https://webblabb.github.io/usammusdos/usdos.html
