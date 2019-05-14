@@ -16,9 +16,9 @@ The model can be run to output single outbreaks or the summary statistics of man
 USDOSv2 can most easily be used through the USDOSv2 R package.
 
 
-<a href="" class="btn btn-primary">USDOS Github</a> (stay tuned . . .)
+<a href="https://github.com/webblabb/usdos" class="btn btn-primary">USDOS Source Code</a>
 
-<a href="" class="btn btn-primary">USDOS R Package</a>  (stay tuned . . .)
+<a href="https://github.com/webblabb/usdosr" class="btn btn-primary">USDOS R Package</a>
 
 <a href="literature/USDOS_UserManual.pdf" class="btn btn-primary">USDOS User Manual (PDF)</a>
 
