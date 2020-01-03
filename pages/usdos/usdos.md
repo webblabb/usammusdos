@@ -20,9 +20,9 @@ USDOSv2 can most easily be used through the USDOSv2 R package.
 
 <a href="https://github.com/webblabb/usdosr" class="btn btn-primary">USDOS R Package</a> -->
 
-<a href="literature/USDOS_UserManual.pdf" class="btn btn-primary">USDOS User Manual (PDF)</a>
+<a href="literature/USDOS_UserManual_Tsaoetal.pdf" class="btn btn-primary">USDOS User Manual (PDF)</a>
 
-<a href="literature/USDOS_UserManual.html" class="btn btn-primary">USDOS User Manual (HTML)</a>
+<a href="literature/USDOS_UserManual_Tsaoetal.html" class="btn btn-primary">USDOS User Manual (HTML)</a>
 
 <a href="literature/main.pdf" class="btn btn-primary">USDOS Workflow Diagram</a>
 
@@ -45,5 +45,7 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
 Tildesley, M.J., V. Volkova, and M.E.J. Woolhouse. 2011. **Potential for Epidemic Take-off from the Primary Outbreak Farm via Livestock Movements**. [BMC Veterinary Research, 7:76.](https://doi.org/10.1186/1746-6148-7-76)
 
 Tildesley, M.J., G. Smith, and M.J. Keeling. 2012. **Modeling the spread and control of foot-and-mouth disease in Pennsylvania following its discovery and options for control**. [Prev. Vet. Med. 104, 224-239.](https://doi.org/10.1016/j.prevetmed.2011.11.007)
+
+Tsao K., Sellman, S., Beck-Johnson L.M.,  Murrieta, D.J., Hallman, C., Lindstrom, T., Miller, R.S., Portacci, K., Tildesley, M.J. and Webb, C.T. 2019 **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. Interface Focus 10: 20190054. (http://dx.doi.org/10.1098/rsfs.2019.0054)  
 
 Werkman, M, M.J. Tildesley, E. Brooks-Pollock, and M.J. Keeling. 2016. **Preserving privacy whilst maintaining robust epidemiological predictions**. [Epidemics (17): 35-41.](https://doi.org/10.1016/j.epidem.2016.10.004)
