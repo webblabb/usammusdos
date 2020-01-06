@@ -62,3 +62,4 @@ Tildesley, M.J., V. Volkova, and M.E.J. Woolhouse. 2011. **Potential for Epidemi
 
 Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a foot-and-mouth outbreak in the UK**. [Nature, 440(7080): 83-86.](https://doi.org/10.1038/nature04324)
 
+Tsao K., Sellman, S., Beck-Johnson L.M.,  Murrieta, D.J., Hallman, C., Lindstrom, T., Miller, R.S., Portacci, K., Tildesley, M.J. and Webb, C.T. 2019 **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale.** [Interface Focus 10: 20190054.](http://dx.doi.org/10.1098/rsfs.2019.0054)
