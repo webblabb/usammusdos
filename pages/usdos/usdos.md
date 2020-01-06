@@ -46,6 +46,6 @@ Tildesley, M.J., V. Volkova, and M.E.J. Woolhouse. 2011. **Potential for Epidemi
 
 Tildesley, M.J., G. Smith, and M.J. Keeling. 2012. **Modeling the spread and control of foot-and-mouth disease in Pennsylvania following its discovery and options for control**. [Prev. Vet. Med. 104, 224-239.](https://doi.org/10.1016/j.prevetmed.2011.11.007)
 
-Tsao K., Sellman, S., Beck-Johnson L.M.,  Murrieta, D.J., Hallman, C., Lindstrom, T., Miller, R.S., Portacci, K., Tildesley, M.J. and Webb, C.T. 2019 **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. Interface Focus 10: 20190054. (http://dx.doi.org/10.1098/rsfs.2019.0054)  
+Tsao K., Sellman, S., Beck-Johnson L.M.,  Murrieta, D.J., Hallman, C., Lindstrom, T., Miller, R.S., Portacci, K., Tildesley, M.J. and Webb, C.T. 2019 **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Interface Focus 10: 20190054.] (http://dx.doi.org/10.1098/rsfs.2019.0054)  
 
 Werkman, M, M.J. Tildesley, E. Brooks-Pollock, and M.J. Keeling. 2016. **Preserving privacy whilst maintaining robust epidemiological predictions**. [Epidemics (17): 35-41.](https://doi.org/10.1016/j.epidem.2016.10.004)
