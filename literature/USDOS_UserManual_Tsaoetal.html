@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
-<meta name="date" content="2019-09-28" />
+<meta name="date" content="2020-01-14" />
 
 <title>USDOS User Manual</title>
 
@@ -1405,6 +1404,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -1433,6 +1433,12 @@ summary {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -1506,21 +1512,21 @@ div.tocify {
 <h1 class="title toc-ignore">USDOS User Manual</h1>
 <h4 class="author">Katharine A. Owers</h4>
 <address class="author_afil">
-Colorado State University, Department of Biology &amp; U.S. Department of Agriculture<br><h4 class="date">28 September 2019</h4>
+Colorado State University, Department of Biology &amp; U.S. Department of Agriculture<br><h4 class="date">14 January 2020</h4>
 
 </div>
 
 
-
+<div style="page-break-after: always;"></div>
 <div id="introduction-to-this-user-manual" class="section level2">
 <h2>Introduction to this User Manual</h2>
-<p>This user manual accompanies the United States Disease Outbreak Simulation (USDOS) version 2 as described in Tsao, K. <em>et. al (under review)</em>. USDOS is a simulation model for the spread of a foot-and-mouth disease (FMD)-like disease in the United States cattle population. The model is coded in C++, with R scripts used for pre- and post-processing. The mdoel can be run via the command line or usdosr, a companion R package (see <a href="https://github.com/webblabb/usdosr" class="uri">https://github.com/webblabb/usdosr</a>).</p>
-<p>This user manual is intended as a guide for running the model. It assumes that the user is familiar with USDOS, has determined that it is a good fit for their question, and has developed the required parameters. To become familiar with USDOS and determine whether it is a good fit for the research question, please see Tsao, K. <em>et. al (under review)</em> and <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091724">Buhnerkempe et al (2014) “The Impact of Movements and Animal Density on Continental Scale Cattle Disease Outbreaks in the United States.” Plos One 9(3): 10.</a>. Related foundational work building a cattle shipment model for the United States:</p>
+<p>This user manual accompanies the United States Disease Outbreak Simulation (USDOS) version 2 as described in <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054">Tsao, K. et. al (2019) “Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale” Interface Focus 10:20190054</a>. USDOS is a simulation model for the spread of a foot-and-mouth disease (FMD)-like disease in the United States cattle population. The model is coded in C++, with R scripts used for pre- and post-processing. The mdoel can be run via the command line or usdosr, a companion R package (see <a href="https://github.com/webblabb/usdosr" class="uri">https://github.com/webblabb/usdosr</a>).</p>
+<p>This user manual is intended as a guide for running the model. It assumes that the user is familiar with USDOS, has determined that it is a good fit for their question, and has developed the required parameters. To become familiar with USDOS and determine whether it is a good fit for the research question, please see <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054">Tsao, K. et. al (2019) “Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale” Interface Focus 10:20190054</a> and <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091724">Buhnerkempe et al (2014) “The Impact of Movements and Animal Density on Continental Scale Cattle Disease Outbreaks in the United States.” Plos One 9(3): 10</a>. Related foundational work building a cattle shipment model for the United States:</p>
 <ul>
-<li>Buhnerkempe et al (2013) “A national-scale picture of US cattle movements obtained from Interstate Certificate of Veterinary Inspection data.” Preventive Veterinary Medicine 112(3-4): 318-329.</li>
-<li>Gorsich et al (2018) “Model-guided suggestions for targeted surveillance based on cattle shipments in the US.” Preventive Veterinary Medicine 150: 52-59.</li>
-<li>Lindstrom et al (2013) “A Bayesian Approach for Modeling Cattle Movements in the United States: Scaling up a Partially Observed Network.” Plos One 8(1): 11.</li>
-<li>Portacci et al (2013) “Assessment of paper interstate certificates of veterinary inspection used to support disease tracing in cattle.” Journal of the American Veterinary Medical Association 243(4): 555-560.</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0167587713002493">Buhnerkempe et al (2013) “A national-scale picture of US cattle movements obtained from Interstate Certificate of Veterinary Inspection data.” Preventive Veterinary Medicine 112(3-4): 318-329</a>.</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0167587717305391">Gorsich et al (2018) “Model-guided suggestions for targeted surveillance based on cattle shipments in the US.” Preventive Veterinary Medicine 150: 52-59.</a></li>
+<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053432">Lindstrom et al (2013) “A Bayesian Approach for Modeling Cattle Movements in the United States: Scaling up a Partially Observed Network.” Plos One 8(1): 11.</a></li>
+<li><a href="https://avmajournals.avma.org/doi/full/10.2460/javma.243.4.555">Portacci et al (2013) “Assessment of paper interstate certificates of veterinary inspection used to support disease tracing in cattle.” Journal of the American Veterinary Medical Association 243(4): 555-560.</a></li>
 </ul>
 <p>This manual also assumes that the user has access to a computer or cluster running a Linux or Mac operating system and the following required software installed:</p>
 <ul>
@@ -1540,7 +1546,7 @@ Change? generalize the description here? -->
 <p>Items in single quotes (’ ’) are file names</p>
 <p>xx signifies a two-digit number (01 to 10)</p>
 <p>** signifies text that can vary (such as a filename)</p>
-
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 <div id="quick-start-guide" class="section level2">
@@ -1565,7 +1571,7 @@ Change? generalize the description here? -->
 <li>Export files</li>
 <li>Generate results files with ‘post_processing.R’, and (if desired) results report with ‘USDOS_Results_Report.Rmd’.</li>
 </ol>
-
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 <div id="initialsetup" class="section level2">
@@ -1578,14 +1584,14 @@ Change? generalize the description here? -->
 <li><p>Enter the upzipped directory: <code>cd ./usdos</code></p></li>
 <li><p>Create an object directory: <code>mkdir obj</code></p></li>
 <li><p>Add any required files using SFTP</p></li>
-<li>If on a cluster system requiring explicit module loading, load required modules.</li>
+<li><p>If on a cluster system requiring explicit module loading, load required modules.</p></li>
 </ol>
 <pre><code>module load gcc/6.1.0
 module load gsl/2.1</code></pre>
 <ol start="8" style="list-style-type: decimal">
 <li>Compile USDOS using <code>make</code>. If it fails to compile, try <a href="#makefile_issues">these troubleshooting steps</a>.</li>
 </ol>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="simulation-options" class="section level2">
 <h2>Simulation options</h2>
@@ -1816,19 +1822,19 @@ sus,4;exp,5 #(74) Dangerous Contact scaling parameters relative to risk: status,
 <p>(51) <strong>Control types</strong> Comma-separated names for unique control types. Options (which can be combined) are listed below. Based on this line’s input there are restricted entries on other lines. These are also listed below. <!-- explain the options on a line each? --></p>
 <ul>
 <li><p><strong>*</strong> turns off control. This option over-rides all others in this section.</p></li>
-<li><strong>shipBan</strong>: Shipment (movement) ban
+<li><p><strong>shipBan</strong>: Shipment (movement) ban</p>
 <ul>
 <li>Line 52’s section for this control type should be <strong>noLimit</strong></li>
 <li>Line 53’s section for this control type should be <strong>0</strong></li>
 <li>Line 54’s section for this control type should be either <strong>county</strong> or <strong>state</strong></li>
 <li>Lines 55 and 56’s sections for this control type should be <strong>NA</strong></li>
 </ul></li>
-<li><strong>cull</strong>: Cull
+<li><p><strong>cull</strong>: Cull</p>
 <ul>
 <li>Line 53’s section for this control type will be interpreted as parameters for a daily per premises limit on numbers of animals that can be controlled</li>
 <li>Line 54’s section for this control type should be <strong>premises</strong></li>
 </ul></li>
-<li><strong>vax</strong>: Vaccination
+<li><p><strong>vax</strong>: Vaccination</p>
 <ul>
 <li>Line 53’s section for this control type will be interpreted as parameters for a daily per-premises limit on numbers of animals that can be controlled</li>
 <li>Line 54’s section for this control type should be <strong>premises</strong></li>
@@ -1999,7 +2005,7 @@ sbatch BATCH_IP_VAX_10km_MvmtBan90_flaps12_0001_min_05_20180925.sh</code></pre>
 <h3>Pre-processing steps</h3>
 <ol style="list-style-type: decimal">
 <li><p>Edit the pre-processing R script using <code>nano createConfig_Function.R</code></p></li>
-<li>Run ‘createConfig_Function.R’ to generate the required config, batch, and job files</li>
+<li><p>Run ‘createConfig_Function.R’ to generate the required config, batch, and job files</p></li>
 </ol>
 <pre><code>module load R/3.5.0
 Rscript createConfig_Function.R</code></pre>
@@ -2023,7 +2029,7 @@ Rscript createConfig_Function.R</code></pre>
 </ol></li>
 <li>To conduct sensitivity analysis, randomize parameters with ‘LH_Parameters.R’ or use the previously generated random parameter values with ‘LHS_Parameters.csv.’ The generated ‘LHS_Parameter_Summary.csv’ file gives information on the parameter values that were randomized.</li>
 </ul>
-
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 <div id="running-the-model" class="section level2">
@@ -2068,7 +2074,7 @@ module load gsl/2.1</code></pre>
 <li>If the .err and .out files look good, wait for the runs to complete.</li>
 </ol></li>
 </ol>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="outfiles" class="section level2">
 <h2>Output files</h2>
@@ -2227,7 +2233,7 @@ module load gsl/2.1</code></pre>
 <li><strong>Duration</strong>: The bumer of days between the initial seed infection and when there are no more infected premises, or 365 days, whichever happens sooner.</li>
 <li><strong>Proportion local transmission</strong>: The proportion of transmission events at the county level that result from local transmission (as opposed to shipment spread)</li>
 </ul>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="additional-information" class="section level2">
 <h2>Additional Information</h2>
@@ -2246,7 +2252,7 @@ module load gsl/2.1</code></pre>
 <p>USAMM: United States Animal Movement Model</p>
 <p>USDOS: United States Disease Outbreak Simulation</p>
 <p>VAX: Vaccine/vaccinated/vaccination</p>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="defs" class="section level3">
 <h3>Definitions</h3>
@@ -2256,7 +2262,7 @@ module load gsl/2.1</code></pre>
 <p><strong>Infected Premises (IP)</strong>: Premises that are infected and have been detected and reported.</p>
 <p><strong>Movement ban</strong>: A prohibition on animal movements, here implemented at the state or county level.</p>
 <p><strong>(Ring) Vaccination</strong>: Vaccination in a solid circle centered on the IP. Rings of radius 3 or 10 kilometers are commonly used in modeling studies and encompass a good range of possible ring sizes. The optimum ring size for controlling the UK 2001 outbreak was predicted to be around 10Km (Tildesley, et al. 2006). Currently, vaccinations are prioritized by the time when a premises was identified as requiring vaccination. This does not follow either the ‘outside-in’ or ‘inside-out’ vaccination method. Vaccination is currently vaccination to die.</p>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="model-file-descriptions" class="section level3">
 <h3>Model file descriptions</h3>
@@ -2342,7 +2348,7 @@ module load gsl/2.1</code></pre>
 </tr>
 </tbody>
 </table>
-
+<div style="page-break-after: always;"></div>
 </div>
 <div id="troubleshooting" class="section level3">
 <h3>Troubleshooting</h3>
@@ -2400,7 +2406,7 @@ clean:
 <li>src/Shipment_manager.cpp</li>
 <li><em>Note: If the error looks anything like items that you are supposed to change when updating, follow these instructions</em></li>
 </ul></li>
-<li>Always double check the makefile if you get further errors. Any time it errors and a restart of ‘make’ is needed, use:</li>
+<li><p>Always double check the makefile if you get further errors. Any time it errors and a restart of ‘make’ is needed, use:</p></li>
 </ul>
 <pre><code>make clean
 make</code></pre>
@@ -2409,7 +2415,7 @@ make</code></pre>
 <li>Look into these files</li>
 <li>If the last line refers to a file, re-download it and try again (might have an end of line error)</li>
 </ul>
-
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 <div id="appendix-example-configuration-files" class="section level3">
