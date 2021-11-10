@@ -46,9 +46,9 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD Student <br/> Affiliations: Linköping University <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
-| <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University <br/> Role: Senior Personnel <br/> Contact https://www.siumed.edu/im/faculty/michael-buhnerkempe.html |
+| <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University School of Medicine <br/> Role: Senior Personnel <br/> Contact info: mbuhnerkempe66@siumed.edu |
 
-| <img src = "images/fullsizeoutput_e.jpeg" style = "width:200px"> | **Erin Gorsich** - <br/> Title: Assistant Professor <br/> Affiliations: University of Warwick, School of Life Sciences  <br/> Role: Senior Personnel <br/> Contact info: http://www.eringorsich.com |
+| <img src = "images/fullsizeoutput_e.jpeg" style = "width:200px"> | **Erin Gorsich** - <br/> Title: Associate Professor  <br/> Affiliations: University of Warwick, School of Life Sciences  <br/> Role: Senior Personnel <br/> Contact info: https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/ |
 
 | <img src = "images/dangrear.jpg" style = "width:200px"> | **Daniel Grear** - <br/> Title: Wildlife Disease Ecologist <br/> Affiliations: USGS National Wildlife Health Center <br/> Role: Senior Personnel <br/> Contact info: https://www.usgs.gov/staff-profiles/daniel-a-grear |
 
