@@ -40,7 +40,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/mtildesley.jpg" style = "width:200px"> | **Michael J. Tildesley** - <br/> Title: Associate Professor <br/> Affiliations: University of Warwick <br/> Role: Principal Investigator <br/> Contact info: m.j.tildesley@warwick.ac.uk |
 
-| <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Senior lecturer <br/> Affiliations: Department of Physics, Chemistry and Biology/Division of Theoretical Biology. Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
+| <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Associate Professor <br/> Affiliations: Department of Physics, Chemistry and Biology/Division of Theoretical Biology. Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
 
 | <img src = "images/LindsayBeckJohnson.jpg" style = "width:200px"> | **Lindsay Beck Johnson** - <br/> Title: Research Scientist <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: l.beck-johnson@colostate.edu |
 
@@ -77,6 +77,12 @@ USAMM - Current work will enhance USAMM predictions to include the size of cattl
 USDOS - Current work will incorporate a within-herd component to USDOS and allow investigation of slower-spreading disease outbreaks.  We are also working to transition USDOS to USDA for their direct use.  Future directions will include USDOS work that incorporates swine diseases once USAMM-Swine is completed.
 
 # Literature
+
+Brommesson, P., Sellman, S., Beck-Johnson, L., Hallman, C., Murrieta, D., Webb, C.T., Miller, R.S., Portacci, K., Lindström, T. 2021. **Assessing intrastate shipments from interstate data and expert opinion**. [Royal Society Open Science, 8. 192042](https://doi.org/10.1098/rsos.192042)
+
+Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054)
+
+Gorsich, E.E., Mask, H.M., Hallman, C., Portacci, K., Miller, R.S., and Webb, C. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://www.nature.com/articles/s41598-019-40556-z)
 
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
