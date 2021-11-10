@@ -80,7 +80,7 @@ USDOS - Current work will incorporate a within-herd component to USDOS and allow
 
 Brommesson, P., Sellman, S., Beck-Johnson, L., Hallman, C., Murrieta, D., Webb, C.T., Miller, R.S., Portacci, K., Lindström, T. 2021. **Assessing intrastate shipments from interstate data and expert opinion**. [Royal Society Open Science, 8. 192042](https://doi.org/10.1098/rsos.192042)
 
-Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054)
+Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054)
 
 Gorsich, E.E., Mask, H.M., Hallman, C., Portacci, K., Miller, R.S., and Webb, C. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://www.nature.com/articles/s41598-019-40556-z)
 
