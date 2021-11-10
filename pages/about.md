@@ -82,11 +82,9 @@ Brommesson, P., Sellman, S., Beck-Johnson, L., Hallman, C., Murrieta, D., Webb, 
 
 Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054)
 
-Gorsich, E.E., Mask, H.M., Hallman, C., Portacci, K., Miller, R.S., and Webb, C. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://www.nature.com/articles/s41598-019-40556-z)
-
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
-Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports.](https://doi.org/10.1038/s41598-019-40556-z)
+Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://doi.org/10.1038/s41598-019-40556-z)
 
 Sellman, S., K. Tsao, M.J. Tildesley, P. Brommesson, C.T. Webb, U. Wennergren, M.J. Keeling, and T. Lindström. 2018. **Need for speed: Optimized gridding approaches for spatially explicit disease simulations**. [PloS Computational Biology.](https://doi.org/10.1371/journal.pcbi.1006086)
 
