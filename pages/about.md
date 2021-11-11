@@ -34,7 +34,7 @@ Our overall modeling philosophy has three main components:
 
 ![group picture](images/GroupPhoto_March19.jpg)
 
-| <img src = "images/CTW_photo.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Professor <br/> Affiliations: Department of Biology and Graduate Degree Program in Ecology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
+| <img src = "images/colleen-new.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Professor <br/> Affiliations: Department of Biology and Graduate Degree Program in Ecology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
 
 | <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Theoretical Biology, Linköping University <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
 
