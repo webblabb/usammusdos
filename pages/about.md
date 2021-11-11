@@ -60,7 +60,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/0.jpg" style = "width:200px"> | **Deedra Murrieta** - <br/> Title: Research Associate <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: deedra.murrieta@gmail.com |
 
-| <img src = "images/kowers_nov2021.jpg" style = "width:200px"> | **Katie Owers Bonner** - <br/> Title: Public Health Emergency Preparedness Surveillance Program Manager <br/> Affiliations: New Hampshire Department of Health and Human Services <br/> Role: Senior Personnel <br/> Contact info: owersk@gmail.com |
+| <img src = "images/kowers_nov2021.jpg.JPG" style = "width:200px"> | **Katie Owers Bonner** - <br/> Title: Public Health Emergency Preparedness Surveillance Program Manager <br/> Affiliations: New Hampshire Department of Health and Human Services <br/> Role: Senior Personnel <br/> Contact info: owersk@gmail.com |
 
 | <img src = "images/portacci.png" style = "width:200px"> | **Katie Portacci** - <br/> Title: Veterinary Epidemiologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: Katie.Portacci@aphis.usda.gov |
 
