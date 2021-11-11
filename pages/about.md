@@ -38,7 +38,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Theoretical Biology, Linköping University <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
 
-| <img src = "images/mtildesley.jpg" style = "width:200px"> | **Michael J. Tildesley** - <br/> Title: Associate Professor <br/> Affiliations: University of Warwick <br/> Role: Principal Investigator <br/> Contact info: m.j.tildesley@warwick.ac.uk |
+| <img src = "images/mtildesley.jpg" style = "width:200px"> | **Michael J. Tildesley** - <br/> Title: Professor <br/> Affiliations: University of Warwick <br/> Role: Principal Investigator <br/> Contact info: m.j.tildesley@warwick.ac.uk |
 
 | <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Associate Professor <br/> Affiliations: Department of Physics, Chemistry and Biology/Division of Theoretical Biology. Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
 
@@ -56,17 +56,17 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/ryan-miller.jpg" style = "width:200px"> | **Ryan Miller** -  <br/> Title: Senior Ecologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: ryan.s.miller@aphis.usda.gov |
 
-| <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Research Fellow <br/> Affiliations: London School of Hygiene and Tropical Medicine <br/> Role: Senior Personnel <br/> Contact info: Amanda.Minter@lshtm.ac.uk |
+| <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Research Fellow <br/> Affiliations: Equations of Disease C.I.C. <br/> Role: Senior Personnel <br/> Contact info: amanda@equationsofdisease.com www.equationsofdisease.com |
 
 | <img src = "images/0.jpg" style = "width:200px"> | **Deedra Murrieta** - <br/> Title: Research Associate <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Senior Personnel <br/> Contact info: deedra.murrieta@gmail.com |
 
-| <img src = "images/Owers_Headshot.jpg" style = "width:200px"> | **Katie Owers** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Colorado State University, Department of Biology and USDA APHIS Center for Epidemiology and Animal Health <br/> Role: Senior Personnel <br/> Contact info: k.owers@colostate.edu |
+| <img src = "images/kowers_nov2021.jpg" style = "width:200px"> | **Katie Owers Bonner** - <br/> Title: Public Health Emergency Preparedness Surveillance Program Manager <br/> Affiliations: New Hampshire Department of Health and Human Services <br/> Role: Senior Personnel <br/> Contact info: owersk@gmail.com |
 
 | <img src = "images/portacci.png" style = "width:200px"> | **Katie Portacci** - <br/> Title: Veterinary Epidemiologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: Katie.Portacci@aphis.usda.gov |
 
 | <img src = "images/Stefan_Sellman.png" style = "width:200px"> | **Stefan Sellman** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Linköping University and University of Warwick <br/> Role: Senior Personnel <br/> Contact info: stefan.sellman@liu.se |
 
-| <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Technical Information Specialist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
+| <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Lead Data Scientist for the Chief Data Officer <br/> Affiliations: USDA Office of the Chief Information Officer <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
 
 | <img src = "images/werkman.jpg" style = "width:200px"> | **Marleen Werkman** -  <br/> Title: Research Associate <br/> Affiliations: Imperial College London <br/> Role: Senior Personnel <br/> Contact info: [Personal Website](https://www.imperial.ac.uk/people/m.werkman) |
 
