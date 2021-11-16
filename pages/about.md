@@ -80,11 +80,9 @@ USDOS - Current work will incorporate a within-herd component to USDOS and allow
 
 Brommesson, P., Sellman, S., Beck-Johnson, L., Hallman, C., Murrieta, D., Webb, C.T., Miller, R.S., Portacci, K., Lindström, T. 2021. **Assessing intrastate shipments from interstate data and expert opinion**. [Royal Society Open Science, 8. 192042](https://doi.org/10.1098/rsos.192042)
 
-Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054)
-
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
-Tsao K., Sellman, S., Beck-Johnson L.M.,  Murrieta, D.J., Hallman, C., Lindstrom, T., Miller, R.S., Portacci, K., Tildesley, M.J. and Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale.** [Interface Focus 10: 20190054.](http://dx.doi.org/10.1098/rsfs.2019.0054) 
+Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054) 
 
 Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://doi.org/10.1038/s41598-019-40556-z)
 
