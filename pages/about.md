@@ -42,7 +42,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Associate Professor <br/> Affiliations: Department of Physics, Chemistry and Biology/Division of Theoretical Biology. Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
 
-| <img src = "images/LindsayBeckJohnson.jpg" style = "width:200px"> | **Lindsay Beck-Johnson** - <br/> Title: Research Scientist II <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Principal Investigator <br/> Contact info: l.beck-johnson@colostate.edu |
+| <img src = "images/LMBJ2021.jpg" style = "width:200px"> | **Lindsay Beck-Johnson** - <br/> Title: Research Scientist II <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Principal Investigator <br/> Contact info: l.beck-johnson@colostate.edu |
 
 | <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD Student <br/> Affiliations: Linköping University <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
