@@ -11,7 +11,12 @@ folder: shiny
 
 USAMM-Shiny allows users to explore an interactive map of predicted U.S. cattle shipments based on USAMM.  Users choose either a county or state of interest and can explore incoming or outgoing shipments.  A downloadable summary table provides summarized predictions of the mean number of shipments and range between the focal county/state and those that it ships to or from.  Developed using the Shiny package app in R.
 
-<a href="https://usamm-gen-net.shinyapps.io/usamm-gen-net/" class="btn btn-primary">USAMM Shiny Visualization</a>
+<a href="https://usamm-gen-net.shinyapps.io/usamm-gen-net/" class="btn btn-primary">USAMM v1 Shiny Visualization</a>
+
+<a href="https://usamm-gen-net.shinyapps.io/v3ShinyApp_1000Nets/" class="btn btn-primary">USAMM v3 Shiny Visualization</a>
+
+<a href="https://usamm-gen-net.shinyapps.io/SwineUSAMMShiny/" class="btn btn-primary">USAMM Swine Shiny Visualization</a>
+
 
 # U.S. Animal Movement Shiny Visualization Literature
 
