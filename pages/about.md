@@ -309,18 +309,6 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                         </div>
                     </div>
                     <!-- /.panel -->
-                               <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">How do I make/document code modifications?</a>
-                            </h4>
-                        </div>
-                        <div id="collapseThirteen" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                Code modifications made by our group will be updated through GitHub and can be accessed via this web site.  Since the code is freely available, individuals are welcome to modify the code for their own purposes, but please remember to cite us as the original source.  As a courtesy, please let us know about any significant modifications that you make so that we can put others who are interested in touch with you (colleen.webb@colostate.edu).
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
+
 </div>
 <!-- /.panel-group -->
