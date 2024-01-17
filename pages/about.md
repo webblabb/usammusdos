@@ -70,11 +70,6 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/werkman.jpg" style = "width:200px"> | **Marleen Werkman** -  <br/> Title: Research Associate <br/> Affiliations: Imperial College London <br/> Role: Senior Personnel <br/> Contact info: [Personal Website](https://www.imperial.ac.uk/people/m.werkman) |
 
-# Directions
-
-USAMM - Current work will enhance USAMM predictions to include the size of cattle shipments and additional information on the types and sizes of premises involved in shipping.  We are simultaneously developing USAMM-Swine to predict swine shipments at the U.S. national scale from Interstate Certificates of Veterinary Inspection.  We are also working to transition USAMM to USDA for their direct use.  Future directions will include also developing USAMM-Swine that incorporates swine shipments from commuter agreement data.
-
-USDOS - Current work will incorporate a within-herd component to USDOS and allow investigation of slower-spreading disease outbreaks.  We are also working to transition USDOS to USDA for their direct use.  Future directions will include USDOS work that incorporates swine diseases once USAMM-Swine is completed.
 
 # Literature
 
