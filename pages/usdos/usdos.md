@@ -1,7 +1,7 @@
 ---
 title: U.S. Disease Outbreak Simulation
 keywords:
-last_updated: July 14, 2017
+last_updated: January 24, 2024
 tags:
 summary: The U.S. Disease Outbreak Simulation model is a model where premises-to-premises transmission occurs by two routes -- long range transmission due to movement of infected animals informed by USAMM or local due to aerosol, fenceline, or fomite transmission.
 sidebar:
