@@ -14,7 +14,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Run a model
+    - title: Models
       folderitems:
         - title: USAMM
           url: /usamm.html
