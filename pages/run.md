@@ -1,5 +1,5 @@
 ---
-title: Run a Model
+title: Models
 keywords:
 last_updated: August 24, 2017
 tags:
