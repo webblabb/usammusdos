@@ -46,7 +46,13 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD  <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
+| <img src = "JBertram_Nov2022.jpeg" style = "width:200px"> | **Jonathan Bertram** -  <br/> Title: Research Associate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: jh.bertram@colostate.edu |
+
 | <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University School of Medicine <br/> Role: Senior Personnel <br/> Contact info: mbuhnerkempe66@siumed.edu |
+
+| <img src = "" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title:  <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
+
+| <img src = "kgilbertson.jpg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Student <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
 
 | <img src = "images/fullsizeoutput_e.jpeg" style = "width:200px"> | **Erin Gorsich** - <br/> Title: Associate Professor  <br/> Affiliations: University of Warwick, School of Life Sciences  <br/> Role: Senior Personnel <br/> Contact info: https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/ |
 
@@ -66,7 +72,11 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/katieportacci_headshotupdate1.jpg" style = "width:200px"> | **Katie Portacci** - <br/> Title: Veterinary Epidemiologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: Katie.Portacci@aphis.usda.gov |
 
-| <img src = "samsmith.jpg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
+| <img src = "bsimony_hiking.jpg" style = "width:200px"> | **Brandon Simony** -  <br/> Title: PhD Candidate <br/> Affiliations:  Pennsylvania State University, Department of Biology <br/> Role: Personnel <br/> Contact info: |
+
+| <img src = "LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info:  |
+
+| <img src = "samsmith.jpeg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
 
 | <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Lead Data Scientist for the Chief Data Officer <br/> Affiliations: USDA Office of the Chief Information Officer <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
 
