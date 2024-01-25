@@ -76,7 +76,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info: Lauren.E.Smith@colostate.edu |
 
-| <img src = "images/samsmith.jpeg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
+| <img src = "images/SamHeadShot2024.jpg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
 
 | <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Lead Data Scientist for the Chief Data Officer <br/> Affiliations: USDA Office of the Chief Information Officer <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
 
@@ -91,13 +91,11 @@ Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., 
 
 Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many?** [Computers and Electronics in Agriculture 203 (December)](https://doi.org/10.1016/j.compag.2022.107483)
 
-Gilbertson, K., Brommesson, P., Minter, A., Hallman, C., Miller, R.S., Portacci, K., Sellman, S., et al. 2022. **The Importance of Livestock Demography and Infrastructure in Driving Foot and Mouth Disease Dynamics.** [Life 12 (10)](https://doi.org/10.3390/life12101604) 
+Gilbertson, K., Brommesson, P., Minter, A., Hallman, C., Miller, R.S., Portacci, K., Sellman, S., Tildesley, M.J., Webb, C.T., Lindström, T., Beck-Johnson, L.M. 2022. **The Importance of Livestock Demography and Infrastructure in Driving Foot and Mouth Disease Dynamics.** [Life 12 (10)](https://doi.org/10.3390/life12101604) 
 
 Brommesson, P., Sellman, S., Beck-Johnson, L.M., Hallman, C., Murrieta, D., Webb, C.T., Miller, R.S., Portacci, K., Lindström, T. 2021. **Assessing intrastate shipments from interstate data and expert opinion**. [Royal Society Open Science, 8(3). 192042](https://doi.org/10.1098/rsos.192042)
 
 Sellman, S., Tildesley, M.J., Burdett, C.L., Miller, R.S., Hallman, C., Webb, C.T., Wennergren, U., Portacci, K., Lindström, T. 2020. **Realistic Assumptions about Spatial Locations and Clustering of Premises Matter for Models of Foot-and-Mouth Disease Spread in the United States.** [PLOS Computational Biology 16 (2): 1–22](https://doi.org/10.1371/journal.pcbi.1007641)
-
-Tsao, K., Sellman, S., Beck-Johnson, L.M., Murrieta, D.J., Hallman, C., Lindström, T, Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2020. **Effects of Regional Differences and Demography in Modelling Foot-and-Mouth Disease in Cattle at the National Scale.** [Interface Focus 10 (20190054)](https://doi.org/10.1098/rsfs.2019.0054)
 
 Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T., 2019. **Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States**. [Prev. Vet. Med. 162, 56–66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)
 
