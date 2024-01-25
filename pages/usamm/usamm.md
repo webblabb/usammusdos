@@ -1,7 +1,7 @@
 ---
 title: U.S. Animal Movement Model
 keywords:
-last_updated: July 14, 2017
+last_updated: January 24, 2024
 tags:
 summary: USAMM is a Bayesian Model based software for estimating county-to-county animal shipments. USAMM includes predictions that correct for overdispersion of predicted movements, incorporating seasonality, validating intrastate movement predictions and expanding inference to multiple years.
 sidebar:
