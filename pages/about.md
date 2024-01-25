@@ -74,7 +74,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/bsimony_hiking.jpg" style = "width:200px"> | **Brandon Simony** -  <br/> Title: PhD Candidate <br/> Affiliations:  Pennsylvania State University, Department of Biology <br/> Role: Personnel <br/> Contact info: |
 
-| <img src = "images/LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info:  |
+| <img src = "images/LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info: Lauren.E.Smith@colostate.edu |
 
 | <img src = "images/samsmith.jpeg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
 
