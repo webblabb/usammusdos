@@ -33,7 +33,7 @@ Our overall modeling philosophy has three main components:
 
 ![group picture](images/GroupPhoto_March19.jpg)
 
-| <img src = "images/colleen-new.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Vice Provost for Graduate Affairs and Dean of the Graduate School; Professor <br/> Affiliations: Graduate School; Department of Biology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
+| <img src = "images/ColleenPhoto2024.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Vice Provost for Graduate Affairs and Dean of the Graduate School; Professor <br/> Affiliations: Graduate School; Department of Biology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
 
 | <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
 
