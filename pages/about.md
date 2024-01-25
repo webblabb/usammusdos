@@ -52,7 +52,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title:  <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
 
-| <img src = "images/kgilbertson.jpg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Student <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
+| <img src = "images/kgilbertson.jpeg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Student <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
 
 | <img src = "images/fullsizeoutput_e.jpeg" style = "width:200px"> | **Erin Gorsich** - <br/> Title: Associate Professor  <br/> Affiliations: University of Warwick, School of Life Sciences  <br/> Role: Senior Personnel <br/> Contact info: https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/ |
 
