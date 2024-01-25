@@ -1,7 +1,7 @@
 ---
 title: About
 keywords: about
-last_updated: September 7, 2017
+last_updated: January 24, 2024
 tags:
 summary: Our overall goal is to provide strong, data-driven predictions of U.S. livestock shipments and simulations of livestock disease and to characterize uncertainty in these predictions in order to support decision-making in both response and planning contexts.  
 sidebar: about
@@ -172,6 +172,7 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                                 </p>
 
                                 <p> To cite USAMM: U.S. Animal Movement Model (USAMM) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usamm.html
+                                </p>
                                 Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises.** [Epidemics 41 (December)](https://doi.org/10.1016/j.epidem.2022.100636) 
                                 Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many?** [Computers and Electronics in Agriculture 203 (December)](https://doi.org/10.1016/j.compag.2022.107483)
                                 </p>
@@ -295,7 +296,7 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                         </div>
                         <div id="collapseEleven" class="panel-collapse collapse">
                             <div class="panel-body">
-                                eThere are multiple reasons. For one, the underlying shipment data that we used to estimate USAMM parameters are confidential to protect personally identifiable information and are not freely available.  Aside from this, additional shipment data, apart from what the model has already been fitted to, are not currently available, and without additional data, the estimated parameters will not change. Hence, there really is no reason to re-estimate USAMM parameters.  Lastly, the parameter fitting process of USAMM is very computationally intensive and requires access to a modern high-performance computer cluster to give meaningful results.
+                                There are multiple reasons. For one, the underlying shipment data that we used to estimate USAMM parameters are confidential to protect personally identifiable information and are not freely available.  Aside from this, additional shipment data, apart from what the model has already been fitted to, are not currently available, and without additional data, the estimated parameters will not change. Hence, there really is no reason to re-estimate USAMM parameters.  Lastly, the parameter fitting process of USAMM is very computationally intensive and requires access to a modern high-performance computer cluster to give meaningful results.
                             </div>
                         </div>
                     </div>
