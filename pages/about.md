@@ -54,6 +54,8 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/clay.jpg" style = "width:200px"> | **Clayton Hallman** - <br/> Title: Mathematical Statistician <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Technical Expert <br/> Contact info: clayton.n.hallman@aphis.usda.gov |
 
+| <img src = "CHerzog_Headshot_March2022.jpg" style = "width:200px"> | **Catherine M. Herzog** -  <br/> Title: Data Scientist <br/> Affiliations:  CDC Center for Forecasting and Outbreak Analytics, Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: catherine.herzog@colostate.edu |
+
 | <img src = "images/ryan-miller.jpg" style = "width:200px"> | **Ryan Miller** -  <br/> Title: Senior Ecologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: ryan.s.miller@aphis.usda.gov |
 
 | <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Research Fellow <br/> Affiliations: Equations of Disease C.I.C. <br/> Role: Senior Personnel <br/> Contact info: amanda@equationsofdisease.com www.equationsofdisease.com |
@@ -64,13 +66,11 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/katieportacci_headshotupdate1.jpg" style = "width:200px"> | **Katie Portacci** - <br/> Title: Veterinary Epidemiologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: Katie.Portacci@aphis.usda.gov |
 
+| <img src = "samsmith.jpg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
+
 | <img src = "images/kim.jpg" style = "width:200px"> | **Kim Tsao** - <br/> Title: Lead Data Scientist for the Chief Data Officer <br/> Affiliations: USDA Office of the Chief Information Officer <br/> Role: Senior Personnel <br/> Contact info: http://www.kimtsao.com |
 
 | <img src = "images/werkman.jpg" style = "width:200px"> | **Marleen Werkman** -  <br/> Title: Research Associate <br/> Affiliations: Imperial College London <br/> Role: Senior Personnel <br/> Contact info: [Personal Website](https://www.imperial.ac.uk/people/m.werkman) |
-
-| <img src = "" style = "width:200px"> | **Sam Smith ** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
-
-| <img src = "" style = "width:200px"> | **Catherine M. Herzog** -  <br/> Title: Data Scientist <br/> Affiliations:  CDC Center for Forecasting and Outbreak Analytics, Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: catherine.herzog@colostate.edu |
 
 
 # Literature
