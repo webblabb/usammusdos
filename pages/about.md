@@ -180,9 +180,9 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
 
                                 <p> To cite USAMM: U.S. Animal Movement Model (USAMM) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usamm.html
                                 </p>
-                                Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises.** <a href="https://doi.org/10.1016/j.epidem.2022.100636"> Epidemics 41 (December) </a>
+                                <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises.** <a href="https://doi.org/10.1016/j.epidem.2022.100636"> Epidemics 41 (December) </a>
                                 </p>
-                                Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many?** <a href="https://doi.org/10.1016/j.compag.2022.107483"> Computers and Electronics in Agriculture 203 (December) </a>
+                                <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many?** <a href="https://doi.org/10.1016/j.compag.2022.107483"> Computers and Electronics in Agriculture 203 (December) </a>
                                 </p>
 
                             </div>
