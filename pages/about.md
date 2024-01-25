@@ -1,7 +1,7 @@
 ---
 title: About
 keywords: about
-last_updated: January 24, 2024
+last_updated: Jan 24, 2024
 tags:
 summary: Our overall goal is to provide strong, data-driven predictions of U.S. livestock shipments and simulations of livestock disease and to characterize uncertainty in these predictions in order to support decision-making in both response and planning contexts.  
 sidebar: about
@@ -17,7 +17,6 @@ The U.S. Animal Movement Model (USAMM) and Disease Outbreak Simulation (USDOS) w
 The United States does not track individual livestock movements, therefore there is a need to characterize livestock shipments at the national scale in the U.S. USAMM provides estimates of the number of cattle or swine shipments between any two counties in the contiguous United States and includes estimates of uncertainty in the predictions.  USDOS is a national scale, premises-level simulation model that uses original algorithms to produce outputs very quickly even at large spatial scales. USDOS incorporates both local and long-range transmission together with multiple response options. USDOS has relatively few parameters so that sensitivity of model outputs to changes in parameters can be fully investigated. The model can run using demographic information from any country together with appropriate shipping data and/or local spread transmission. Inquiries about current work on this project may be directed to Lindsay Beck-Johnson at L.Beck-Johnson@colostate.edu
 
 This web site is planned for use by both management and field personnel and disease modelers. This web site contains high-level descriptions of project deliverables, visualization tools, downloadable model predictions that can be ported into users own tools/systems, supporting publications with technical details, freely available downloadable code and user-guides. 
-
 
 
 # Philosophy
