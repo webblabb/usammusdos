@@ -17,10 +17,6 @@ entries:
       output: web
       url: /about.html#people
 
-    - title: Directions
-      output: web
-      url: /about.html#directions
-
     - title: Literature
       output: web
       url: /about.html#literature
