@@ -34,25 +34,25 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/ColleenPhoto2024.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Vice Provost for Graduate Affairs and Dean of the Graduate School; Professor <br/> Affiliations: Graduate School; Department of Biology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
 
-| <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
+| <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
 
 | <img src = "images/mtildesley.jpg" style = "width:200px"> | **Michael J. Tildesley** - <br/> Title: Professor <br/> Affiliations: University of Warwick <br/> Role: Principal Investigator <br/> Contact info: m.j.tildesley@warwick.ac.uk |
 
-| <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Associate Professor <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
+| <img src = "images/TomLindstrom.jpg" style = "width:200px"> | **Tom Lindström** - <br/> Title: Associate Professor <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Principal Investigator <br/> Contact info: tom.lindstrom@liu.se |
 
 | <img src = "images/LMBJ2021.jpg" style = "width:200px"> | **Lindsay Beck-Johnson** - <br/> Title: Research Scientist III <br/> Affiliations: Colorado State University, Department of Biology <br/> Role: Principal Investigator <br/> Contact info: l.beck-johnson@colostate.edu |
 
-| <img src = "images/Stefan_Sellman.png" style = "width:200px"> | **Stefan Sellman** - <br/> Title: Postdoctoral Researcher <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University and University of Warwick <br/> Role: Principal Investigator <br/> Contact info: stefan.sellman@liu.se |
+| <img src = "images/Stefan_Sellman.png" style = "width:200px"> | **Stefan Sellman** - <br/> Title: Principal Research Engineer <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Principal Investigator <br/> Contact info: stefan.sellman@liu.se |
 
-| <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD  <br/> Affiliations: Department of Physics, Chemistry, and Biology / Division of Ecological and Environmental Modeling, Linköping University <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
+| <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD  <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
 | <img src = "images/JBertram_Nov2022.jpeg" style = "width:200px"> | **Jonathan Bertram** -  <br/> Title: Research Associate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: jh.bertram@colostate.edu |
 
 | <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University School of Medicine <br/> Role: Senior Personnel <br/> Contact info: mbuhnerkempe66@siumed.edu |
 
-| <img src = "images/" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title:  <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
+| <img src = "images/dominika_decpeevy.jpg" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title:  <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
 
-| <img src = "images/kgilbertson.jpeg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Student <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
+| <img src = "images/kgilbertson.jpeg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Candidate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
 
 | <img src = "images/fullsizeoutput_e.jpeg" style = "width:200px"> | **Erin Gorsich** - <br/> Title: Associate Professor  <br/> Affiliations: University of Warwick, School of Life Sciences  <br/> Role: Senior Personnel <br/> Contact info: https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/ |
 
@@ -64,7 +64,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/ryan-miller.jpg" style = "width:200px"> | **Ryan Miller** -  <br/> Title: Senior Ecologist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Agency Lead <br/> Contact info: ryan.s.miller@aphis.usda.gov |
 
-| <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Research Fellow <br/> Affiliations: Equations of Disease C.I.C. <br/> Role: Senior Personnel <br/> Contact info: amanda@equationsofdisease.com www.equationsofdisease.com |
+| <img src = "images/Amanda.png" style = "width:200px"> | **Amanda Minter** -  <br/> Title: Infectious Disease Modeling Consultant <br/> Affiliations: Equations of Disease C.I.C. <br/> Role: Senior Personnel <br/> Contact info: amanda@equationsofdisease.com www.equationsofdisease.com |
 
 | <img src = "images/0.jpg" style = "width:200px"> | **Deedra Murrieta** - <br/> Title: Biological Science Information Specialist <br/> Affiliations: USDA Animal and Plant Health Inspection Service <br/> Role: Senior Personnel <br/> Contact info: deedra.murrieta@gmail.com |
 
@@ -107,8 +107,6 @@ Sellman, S., K. Tsao, M.J. Tildesley, P. Brommesson, C.T. Webb, U. Wennergren, M
 
 Gorsich, E. C.D. McKee, D.A. Grear, R.S. Miller, K. Portacci, T. Lindström, C.T. Webb. 2017. **Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S.**. [Preventive Veterinary Medicine, 150 (July 2017): 52-59.](https://doi.org/10.1016/j.prevetmed.2017.12.004)
 
-Webb, C.T., M.J. Ferrari, T. Lindström, T. Carpenter, S. Dürr, G. Garner, C. Jewell, M. Stevenson, M.P. Ward, M. Werkman, and M.J. Tildesley. 2017. **Ensemble Modeling and Structured Decision Making to Support Emergency Disease Management**. [Preventive Veterinary Medicine, 138: 124-133.](https://doi.org/10.1016/j.prevetmed.2017.01.003)
-
 Brommesson, P., U. Wennergren, and T. Lindström. 2016. **Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all**. [PLoS ONE 11(10): e0164008](https://doi.org/10.1371/journal.pone.0164008)
 
 Gorsich, E., A.D. Luis, M.G. Buhnerkempe, D.A. Grear, K. Portacci, R.S. Miller, and C.T. Webb. 2016. **Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011**. [Preventive Veterinary Medicine, 134: 82-91.](https://doi.org/10.1016/j.prevetmed.2016.09.023)
@@ -120,8 +118,6 @@ Werkman, M, M.J. Tildesley, E. Brooks-Pollock, and M.J. Keeling. 2016. **Preserv
 Burdett, C.L., B.R. Kraus, S.J. Garza, R.S. Miller, and K.E. Bjork. 2015. **Simulating the Distribution of Individual Livestock Farms and Their Populations in the United States: An Example Using Domestic Swine (Sus scrofa domesticus) Farms**. [Plos One.](https://doi.org/10.1371/journal.pone.0140338)
 
 Dawson P.M., M. Werkman, E. Brooks-Pollock, M.J. Tildesley. 2015. **Epidemic predictions in an imperfect world: modelling disease spread with partial data**. [Proceedings of the Royal Society B 282(1808).](https://doi.org/10.1098/rspb.2015.0205)
-
-Lindström, T., Tildesley, M., Webb, C.T. 2015. **A Bayesian ensemble approach for epidemiological projections**. [PLoS Computational Biology.](https://doi.org/10.1371/journal.pcbi.1004187)
 
 McKee, C., C. Hallman, C.T. Webb, T. Lindstrom, R.S. Miller, and K. Portacci. 2015. [**USAMM Shiny Visualization (R package)**](https://usamm-gen-net.shinyapps.io/usamm-gen-net/)
 
