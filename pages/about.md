@@ -168,16 +168,17 @@ Tildesley, M.J., Savill, N.J., Shaw, D.J., Deardon, R., Brooks, S.P., Woolhouse,
                             <div class="panel-body">
                                 Yes!  USAMM and USDOS code were created by our group and should be referenced appropriately whether you use them as is or as base code for your own modifications.  Suggested reference formats are:
 
-                                <p> To cite this page: Webb, C., U. Wennergren, T. Lindström, M.J. Tildesley, T. Dewey, L.M. Beck-Johnson, S. Sellman, and C. Leach. 2024. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
+                                <p> To cite this page: Webb, C.T., Wennergren, U., Lindström, T., Tildesley, M.J., Dewey, T., Beck-Johnson, L.M., Sellman, S., and Leach, C. 2024. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
                                 </p>
 
                                 <p> To cite USDOS: U.S. Disease Outbreak Simulation (USDOS) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usdos.html
                                 </p>
 
                                 <p> To cite USAMM-Swine: 
-                                <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises. </b> <a href="https://doi.org/10.1016/j.epidem.2022.100636"> Epidemics 41 (December) </a>
-                                </p> To cite USAMM-Cattle: 
-                                <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many? </b> <a href="https://doi.org/10.1016/j.compag.2022.107483"> Computers and Electronics in Agriculture 203 (December) </a>
+                                Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises. </b> <a href="https://doi.org/10.1016/j.epidem.2022.100636"> Epidemics 41 (December) </a>
+                                </p> 
+                                <p> To cite USAMM-Cattle: 
+                                Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many? </b> <a href="https://doi.org/10.1016/j.compag.2022.107483"> Computers and Electronics in Agriculture 203 (December) </a>
                                 </p>
 
                             </div>
