@@ -17,10 +17,6 @@ entries:
       output: web
       url: /about.html#people
 
-    - title: Literature
-      output: web
-      url: /about.html#literature
-
     - title: FAQ
       output: web
       url: /about.html#faq
