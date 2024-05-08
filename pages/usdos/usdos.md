@@ -1,7 +1,7 @@
 ---
 title: U.S. Disease Outbreak Simulation
 keywords:
-last_updated: May 7, 2024
+last_updated: May 8, 2024
 tags:
 summary: The U.S. Disease Outbreak Simulation model (USDOS) is a national scale model where premises-to-premises transmission occurs by two routes -- long range transmission due to movement of infected animals informed by USAMM or local due to aerosol, fenceline, or fomite transmission.
 sidebar:
