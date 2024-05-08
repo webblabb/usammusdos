@@ -23,14 +23,11 @@ For more information about USDOS please see the published [literature](https://w
 # USDOS Code and Documentation
 The model can be run to output single outbreaks or many outbreaks in batch formulation. USDOS runs on a laptop or on a high- performance computing system. Run times even on a laptop for a single outbreak are on the order of seconds to a few minutes (minutes for continental scale outbreaks). USDOS is available as a C++ executable with accompanying processing code and documentation linked below.
 
-
 <a href="https://github.com/webblabb/usdos" class="btn btn-primary">USDOS Source Code</a>
 
 <a href="literature/USDOSv2.1_UserManual.html" class="btn btn-primary">USDOS v2.1 User Manual (HTML)</a>
 
-<a href="literature/main.pdf" class="btn btn-primary">USDOS Workflow Diagram</a>
 
-| <img src = "images/usdos.jpg" style = "width:600px">  |
 
 # Previous USDOS Versions
 
