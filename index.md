@@ -34,9 +34,9 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Visualizations</h4>
-                     <p>Interactive shipment map.</p>
-                     <a href="shiny.html" class="btn btn-primary">Learn More</a>
+                     <h4>Literature</h4>
+                     <p>Published literature from the project</p>
+                     <a href="literature.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -49,9 +49,9 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Data</h4>
-                     <p>Description of data sources.</p>
-                     <a href="data.html" class="btn btn-primary">Learn More</a>
+                     <h4>USAMM</h4>
+                     <p>Instructions and documentation to run the USDOS model</p>
+                     <a href="usamm.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -64,9 +64,9 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Run</h4>
-                     <p>Instructions and documentation.</p>
-                     <a href="run.html" class="btn btn-primary">Learn More</a>
+                     <h4>USDOS</h4>
+                     <p>Instructions and documentation to run the USDOS model</p>
+                     <a href="usdos.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
