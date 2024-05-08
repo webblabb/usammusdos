@@ -32,7 +32,7 @@ Our overall modeling philosophy has three main components:
 
 ![group picture](images/GroupPhoto_March19.jpg)
 
-| <img src = "images/ColleenPhoto2024.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Vice Provost for Graduate Affairs and Dean of the Graduate School; Professor <br/> Affiliations: Graduate School; Department of Biology, Colorado State University <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
+| <img src = "images/ColleenPhoto2024.jpg" style = "width:200px"> | **Colleen Webb** - <br/> Title: Vice Provost for Graduate Affairs and Dean of the Graduate School; Professor <br/> Affiliations: Colorado State University, Graduate School; Department of Biology <br/> Role: Principal Investigator <br/> Contact info: colleen.webb@colostate.edu  |
 
 | <img src = "images/uno.jpg" style = "width:200px"> | **Uno Wennergren** - <br/> Title: Professor <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Principal Investigator <br/> Contact info: uno.wennergren@liu.se |
 
@@ -101,55 +101,55 @@ Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grea
 
 Tsao, K., Sellman, S., Beck-Johnson, L., Murrieta, D.J., Hallman, C., Lindström, T., Miller, R.S., Portacci, K., Tildesley, M.J., Webb, C.T. 2019. **Effects of regional differences and demography in modelling foot-and-mouth disease in cattle at the national scale**. [Royal Society Interface Focus, 10(1)](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2019.0054) 
 
-Gorsich, E.E., R.S. Miller, H.S. Mask, C. Hallman, K. Portacci, and C.T. Webb. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://doi.org/10.1038/s41598-019-40556-z)
+Gorsich, E.E., Miller, R.S., Mask, H.S., Hallman, C., Portacci, K., and Webb, C.T. 2019. **Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection**. [Scientific Reports 9(1), 3915.](https://doi.org/10.1038/s41598-019-40556-z)
 
-Sellman, S., K. Tsao, M.J. Tildesley, P. Brommesson, C.T. Webb, U. Wennergren, M.J. Keeling, and T. Lindström. 2018. **Need for speed: An optimized gridding approaches for spatially explicit disease simulations**. [PloS Computational Biology 14(4)](https://doi.org/10.1371/journal.pcbi.1006086)
+Sellman, S., Tsao, K., Tildesley, M.J., Brommesson, P., Webb, C.T., Wennergren, U., Keeling, M.J., and Lindström, T. 2018. **Need for speed: An optimized gridding approaches for spatially explicit disease simulations**. [PloS Computational Biology 14(4)](https://doi.org/10.1371/journal.pcbi.1006086)
 
-Gorsich, E. C.D. McKee, D.A. Grear, R.S. Miller, K. Portacci, T. Lindström, C.T. Webb. 2017. **Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S.**. [Preventive Veterinary Medicine, 150 (July 2017): 52-59.](https://doi.org/10.1016/j.prevetmed.2017.12.004)
+Gorsich, E., McKee, C.D., Grear, D.A., Miller, R.S., Portacci, K., Lindström, T., Webb, C.T. 2017. **Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S.**. [Preventive Veterinary Medicine, 150 (July 2017): 52-59.](https://doi.org/10.1016/j.prevetmed.2017.12.004)
 
-Brommesson, P., U. Wennergren, and T. Lindström. 2016. **Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all**. [PLoS ONE 11(10): e0164008](https://doi.org/10.1371/journal.pone.0164008)
+Brommesson, P., Wennergren, U., and Lindström, T. 2016. **Spatiotemporal variation in distance dependent animal movement contacts: one size doesn’t fit all**. [PLoS ONE 11(10): e0164008](https://doi.org/10.1371/journal.pone.0164008)
 
-Gorsich, E., A.D. Luis, M.G. Buhnerkempe, D.A. Grear, K. Portacci, R.S. Miller, and C.T. Webb. 2016. **Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011**. [Preventive Veterinary Medicine, 134: 82-91.](https://doi.org/10.1016/j.prevetmed.2016.09.023)
+Gorsich, E., Luis, A.D., Buhnerkempe, M.G., Grear, D.A., Portacci, K., Miller, R.S., and Webb, C.T. 2016. **Mapping U.S. cattle shipment networks: spatial and temporal patterns of trade communities from 2009 to 2011**. [Preventive Veterinary Medicine, 134: 82-91.](https://doi.org/10.1016/j.prevetmed.2016.09.023)
 
-Probert, W.J.M., K. Shea, C.J. Fonnesbeck, M.C. Runge, C.T. Webb, M.J. Tildesley, and M.J. Ferrari. 2016. **Decision-making for foot-and-mouth disease control: objectives matter**. [Epidemics 15: 10-19.](https://doi.org/10.1016/j.epidem.2015.11.002)
+Probert, W.J.M., Shea, K., Fonnesbeck, C.J., Runge, M.C., Webb, C.T., Tildesley, M.J., and Ferrari, M.J. 2016. **Decision-making for foot-and-mouth disease control: objectives matter**. [Epidemics 15: 10-19.](https://doi.org/10.1016/j.epidem.2015.11.002)
 
-Werkman, M, M.J. Tildesley, E. Brooks-Pollock, and M.J. Keeling. 2016. **Preserving privacy whilst maintaining robust epidemiological predictions**. [Epidemics (17): 35-41.](https://doi.org/10.1016/j.epidem.2016.10.004)
+Werkman, M, Tildesley, M.J., Brooks-Pollock, E., and Keeling, M.J. 2016. **Preserving privacy whilst maintaining robust epidemiological predictions**. [Epidemics (17): 35-41.](https://doi.org/10.1016/j.epidem.2016.10.004)
 
-Burdett, C.L., B.R. Kraus, S.J. Garza, R.S. Miller, and K.E. Bjork. 2015. **Simulating the Distribution of Individual Livestock Farms and Their Populations in the United States: An Example Using Domestic Swine (Sus scrofa domesticus) Farms**. [Plos One.](https://doi.org/10.1371/journal.pone.0140338)
+Burdett, C.L., Kraus, B.R., Garza, S.J., Miller, R.S., and Bjork, K.E. 2015. **Simulating the Distribution of Individual Livestock Farms and Their Populations in the United States: An Example Using Domestic Swine (Sus scrofa domesticus) Farms**. [Plos One.](https://doi.org/10.1371/journal.pone.0140338)
 
-Dawson P.M., M. Werkman, E. Brooks-Pollock, M.J. Tildesley. 2015. **Epidemic predictions in an imperfect world: modelling disease spread with partial data**. [Proceedings of the Royal Society B 282(1808).](https://doi.org/10.1098/rspb.2015.0205)
+Dawson P.M., Werkman, M., Brooks-Pollock, E., and Tildesley, M.J. 2015. **Epidemic predictions in an imperfect world: modelling disease spread with partial data**. [Proceedings of the Royal Society B 282(1808).](https://doi.org/10.1098/rspb.2015.0205)
 
-McKee, C., C. Hallman, C.T. Webb, T. Lindstrom, R.S. Miller, and K. Portacci. 2015. [**USAMM Shiny Visualization (R package)**](https://usamm-gen-net.shinyapps.io/usamm-gen-net/)
+McKee, C., Hallman, C., Webb, C.T., Lindstrom, T., Miller, R.S., and Portacci, K. 2015. [**USAMM Shiny Visualization (R package)**](https://usamm-gen-net.shinyapps.io/usamm-gen-net/)
 
 Buhnerkempe, M.G., Tildesley, M.J., Lindström, T., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., Werkman, M., Keeling, M.J., Wennergren, U., Webb, C.T. 2014. **The impact of movements and animal density on continental scale cattle disease outbreaks in the United States**. [PLoS ONE 9(3): e91724](https://doi.org/10.1371/journal.pone.0091724)
 
-Grear, D.A., J.B. Kaneene, J.J. Averill, and C.T. Webb. 2014. **Local cattle movments in response to ongoing bovine tuberculosis zonation and regulations in Michigan, USA**. [Preventative Veterinary Medicine. 114(3-4):201-12.](https://doi.org/10.1016/j.prevetmed.2014.03.008)
+Grear, D.A., Kaneene, J.B., Averill, J.J., and Webb, C.T. 2014. **Local cattle movments in response to ongoing bovine tuberculosis zonation and regulations in Michigan, USA**. [Preventative Veterinary Medicine. 114(3-4):201-12.](https://doi.org/10.1016/j.prevetmed.2014.03.008)
 
-Tsao, K., S. Robbe-Austerman, R.S. Miller, K. Portacci, D.A. Grear, and C.T. Webb. 2014. **Sources of bovine tuberculosis in the United States**. Infection, [Genetics and Evolution. 28C:137-143.](https://doi.org/10.1016/j.meegid.2014.09.025)
+Tsao, K., Robbe-Austerman, S., Miller, R.S., Portacci, K., Grear, D.A., and Webb, C.T. 2014. **Sources of bovine tuberculosis in the United States**. Infection, [Genetics and Evolution. 28C:137-143.](https://doi.org/10.1016/j.meegid.2014.09.025)
 
-Buhnerkempe, M.G., D.A. Grear, K. Portacci, R.S. Miller, J. Lombard, and C.T. Webb. 2013. **A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data**. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
+Buhnerkempe, M.G., Grear, D.A., Portacci, K., Miller, R.S., Lombard, J., and Webb, C.T. 2013. **A national-scale picture of U.S. cattle movements obtained from Interstate Certificate of Veterinary Inspection data**. [Prev. Vet. Med.112: 318-329](https://doi.org/10.1016/j.prevetmed.2013.08.002)
 
-Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., and U. Wennergren. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE 8(1): e53432](https://doi.org/10.1371/journal.pone.0053432)
+Lindström, T., Grear, D.A., Buhnerkempe, M., Webb, C.T., Miller, R.S., Portacci, K., and Wennergren, U. 2013. **A Bayesian approach for modeling cattle movements in the United States: scaling up a partially observed network**. [PLoS ONE 8(1): e53432](https://doi.org/10.1371/journal.pone.0053432)
 
-Portacci, K, R.S. Miller, P.D. Riggs, M.G. Buhnerkempe, and L.M. Abrahamsen. 2013. **Assessment of paper interstate certificates of veterinary inspection used to support disease tracing in cattle**. [Journal of the American Veterinary Association 243(4): 555-560.](https://doi.org/10.2460/javma.243.4.555)
+Portacci, K., Miller, R.S., Riggs, P.D., Buhnerkempe, M.G., and Abrahamsen, L.M. 2013. **Assessment of paper interstate certificates of veterinary inspection used to support disease tracing in cattle**. [Journal of the American Veterinary Association 243(4): 555-560.](https://doi.org/10.2460/javma.243.4.555)
 
-Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9(71): 1287-1294.](https://doi.org/10.1098/rsif.2011.0625)
+Lindström, T., Lewerin, S.S., and Wennergren, U. 2012. **Influence on disease spread dynamics of herd characteristics in a structured livestock industry**. [Journal of the Royal Society Interface 9(71): 1287-1294.](https://doi.org/10.1098/rsif.2011.0625)
 
-Lindström T., S. Sternberg Lewerin, and U. Wennergren. 2012. **SpecNet: A spatial network algorithm that generates a wide range of specific structures**. [PLoS ONE.](https://doi.org/10.1371/journal.pone.0042679)
+Lindström T., Lewerin, S.S., and Wennergren, U. 2012. **SpecNet: A spatial network algorithm that generates a wide range of specific structures**. [PLoS ONE.](https://doi.org/10.1371/journal.pone.0042679)
 
-Tildesley, M.J., G. Smith, and M.J. Keeling. 2012. **Modeling the spread and control of foot-and-mouth disease in Pennsylvania following its discovery and options for control**. [Prev. Vet. Med. 104, 224-239.](https://doi.org/10.1016/j.prevetmed.2011.11.007)
+Tildesley, M.J., Smith, G., and Keeling, M.J. 2012. **Modeling the spread and control of foot-and-mouth disease in Pennsylvania following its discovery and options for control**. [Prev. Vet. Med. 104, 224-239.](https://doi.org/10.1016/j.prevetmed.2011.11.007)
 
-Tildesley, M.J. and S.J. Ryan. 2012. **Disease prevention versus data privacy: using landcover maps to inform spatial epidemic models**. [PLoS Computational Biology, 8 (11).](https://doi.org/10.1371/journal.pcbi.1002723)
+Tildesley, M.J. and Ryan, S.J. 2012. **Disease prevention versus data privacy: using landcover maps to inform spatial epidemic models**. [PLoS Computational Biology, 8 (11).](https://doi.org/10.1371/journal.pcbi.1002723)
 
-Lindström, T., S.A. Sisson, S.S. Lewerin, and U. Wennergren. 2011. **Bayesian analysis of animal movements related to factors at herd and between herd levels: Implications for disease spread modeling**. [Preventive veterinary medicine 98: 230-242.](https://doi.org/10.1016/j.prevetmed.2010.11.005)
+Lindström, T., Sisson, S.A., Lewerin, S.S., and Wennergren, U. 2011. **Bayesian analysis of animal movements related to factors at herd and between herd levels: Implications for disease spread modeling**. [Preventive veterinary medicine 98: 230-242.](https://doi.org/10.1016/j.prevetmed.2010.11.005)
 
-Tildesley, M.J., V. Volkova, and M.E.J. Woolhouse. 2011. **Potential for Epidemic Take-off from the Primary Outbreak Farm via Livestock Movements**. [BMC Veterinary Research, 7:76.](https://doi.org/10.1186/1746-6148-7-76)
+Tildesley, M.J., Volkova, V., and Woolhouse, M.E.J. 2011. **Potential for Epidemic Take-off from the Primary Outbreak Farm via Livestock Movements**. [BMC Veterinary Research, 7:76.](https://doi.org/10.1186/1746-6148-7-76)
 
 Lindström, T, Sisson, S.A., Lewerin, S.S., Wennergren, U. 2010. **Estimating Animal Movement Contacts between Holdings of Different Production Types.** [Preventive Veterinary Medicine 95 (1–2): 23–31](https://doi.org/10.1016/j.prevetmed.2010.03.002) 
 
 Lindström, T., Sisson, S.A., Nöremark, M., Jonsson, A., Wennergren, U. 2009. **Estimation of Distance Related Probability of Animal Movements between Holdings and Implications for Disease Spread Modeling.** [Preventive Veterinary Medicine 91 (2–4): 85–94](https://doi.org/10.1016/j.prevetmed.2009.05.022)
 
-Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a foot-and-mouth outbreak in the UK**. [Nature, 440(7080): 83-86.](https://doi.org/10.1038/nature04324)
+Tildesley, M.J., Savill, N.J., Shaw, D.J., Deardon, R., Brooks, S.P., Woolhouse, M.E.J., Grenfell, B.T., Keeling, M. J. 2006. **Optimal reactive vaccination strategies for a foot-and-mouth outbreak in the UK**. [Nature, 440(7080): 83-86.](https://doi.org/10.1038/nature04324)
 
 
 
@@ -168,16 +168,15 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                             <div class="panel-body">
                                 Yes!  USAMM and USDOS code were created by our group and should be referenced appropriately whether you use them as is or as base code for your own modifications.  Suggested reference formats are:
 
-                                <p> To cite this page: Webb, C., U. Wennergren, T. Lindström, M.J. Tildesley, T. Dewey, and C. Leach. 2024. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
+                                <p> To cite this page: Webb, C., U. Wennergren, T. Lindström, M.J. Tildesley, T. Dewey, L.M. Beck-Johnson, S. Sellman, and C. Leach. 2024. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
                                 </p>
 
                                 <p> To cite USDOS: U.S. Disease Outbreak Simulation (USDOS) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usdos.html
                                 </p>
 
-                                <p> To cite USAMM: U.S. Animal Movement Model (USAMM) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usamm.html
-                                </p>
+                                <p> To cite USAMM-Swine: 
                                 <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises. </b> <a href="https://doi.org/10.1016/j.epidem.2022.100636"> Epidemics 41 (December) </a>
-                                </p>
+                                </p> To cite USAMM-Cattle: 
                                 <p> Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. <b> Modeling U.S. Cattle Movements until the Cows Come Home: Who Ships to Whom and How Many? </b> <a href="https://doi.org/10.1016/j.compag.2022.107483"> Computers and Electronics in Agriculture 203 (December) </a>
                                 </p>
 
@@ -202,12 +201,12 @@ Tildesley, M.J., et al. 2006. **Optimal reactive vaccination strategies for a fo
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Should I use shipment data (ICVIs) or USAMM predictions?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Should I use shipment data or USAMM predictions?</a>
                             </h4>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                We recommend using USAMM predictions. ICVI data are a sample that needs to be scaled-up and do not capture within state movements. USAMM predictions solve both problems for you.
+                                We recommend using USAMM predictions. ICVI shipment data are a sample that needs to be scaled-up and do not capture within state movements. USAMM predictions solve both problems for you.
                             </div>
                         </div>
                     </div>
