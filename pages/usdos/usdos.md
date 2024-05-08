@@ -33,8 +33,10 @@ The model can be run to output single outbreaks or many outbreaks in batch formu
 
 We strongly recommend working with the latest version of USDOS. Earlier versions of USDOS are unable to run the current versions of USAMM and are more likely to be incompatible with software.
 
-<a href="https://github.com/webblabb/usdosr" class="btn btn-primary">USDOS R Package</a>
+USDOSv2.0, published in Tsao et al., 2019:
 
-<a href="literature/USDOS_UserManual_Tsaoetal.pdf" class="btn btn-primary">USDOS User Manual (PDF)</a>
+<a href="https://github.com/webblabb/usdosr" class="btn btn-primary">USDOS v2.0 R Package</a>
 
-<a href="literature/USDOS_UserManual_Tsaoetal.html" class="btn btn-primary">USDOS User Manual (HTML)</a>
+<a href="literature/USDOS_UserManual_Tsaoetal.pdf" class="btn btn-primary">USDOS v2.0 User Manual (PDF)</a>
+
+<a href="literature/USDOS_UserManual_Tsaoetal.html" class="btn btn-primary">USDOS v2.0 User Manual (HTML)</a>
