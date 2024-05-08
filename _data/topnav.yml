@@ -5,10 +5,10 @@ topnav:
   items:
     - title: About
       url: /about
-    - title: Visualizations
-      url: /shiny
     - title: Literature
       url: /literature
+    - title: Visualizations
+      url: /shiny
 
 #Topnav dropdowns
 topnav_dropdowns:
