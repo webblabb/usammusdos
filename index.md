@@ -20,7 +20,7 @@ summary: Our overall goal is to provide strongly data-driven predictions of U.S.
                  </div>
                  <div class="panel-body">
                      <h4>About</h4>
-                     <p>Philosophy, people, and projects.</p>
+                     <p>Objectives, philosophy, people, and FAQ.</p>
                      <a href="about.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
