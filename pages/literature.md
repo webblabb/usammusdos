@@ -8,7 +8,6 @@ permalink: literature.html
 folder: pages
 toc: false
 ---
-# Full Literature List
 
 Beck-Johnson, L.M., Gorsich, E.E., Hallman, C., Tildesley, M.J., Miller, R.S., Webb, C.T. 2023. **An exploration of within-herd dynamics of a transboundary livestock disease: A foot and mouth disease case study.** [Epidemics, 42, 100668](https://doi.org/10.1016/j.epidem.2023.100668)
 
