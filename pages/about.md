@@ -136,7 +136,7 @@ Our overall modeling philosophy has three main components:
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                We recommend using USAMM predictions. ICVI shipment data are a sample that needs to be scaled-up and do not capture within state movements. USAMM predictions solve both problems for you.
+                                We recommend using USAMM predictions. The underlying shipment data are a sample that needs to be scaled-up and do not capture within state movements. USAMM predictions solve both problems for you. The underlying shipment data are also not freely available (see FAQ on requesting underlying data).
                             </div>
                         </div>
                     </div>
