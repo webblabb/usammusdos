@@ -9,6 +9,10 @@ topnav:
       url: /literature
     - title: Visualizations
       url: /shiny
+    - title: USAMM
+      url: /usamm
+    - title: USDOS
+      url: /usdos
 
 #Topnav dropdowns
 topnav_dropdowns:
