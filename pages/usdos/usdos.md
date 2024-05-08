@@ -12,10 +12,11 @@ folder: usdos
 # Disease Outbreak Simulation
 USDOS is a national scale, premises-level simulation model for livestock disease outbreaks. It incorporates long range transmission, by default using USAMM predictions for transmission via shipment, and local transmission processes via a spatial transmission kernel. Default settings for the spatial transmission kernel are estimated for foot and mouth disease from data from the United Kingdom 2001 outbreak. USDOS also allows for the exploration of outbreak response actions. Default simulations use demographic information for the U.S. from the Farm Location and Animal Population simulator (Burdett et al. 2015). USDOS has been validated by comparison to other FMD model simulations for the UK 2001 FMD outbreak. USDOS has been through the peer-review process via academic publications as well as a model-review process by USDA.
 We envision that USDOS can be used to address a number of important issues surrounding livestock disease outbreaks in the U.S. such as:
-•	Informing preparedness planning for foreign animal diseases
-•	Informing preparedness planning for endemic diseases
-•	Evaluating response options
-•	There is the potential to fit the model to data to inform responses in an actual outbreak
+-	Informing preparedness planning for foreign animal diseases
+-	Informing preparedness planning for endemic diseases
+-	Evaluating response options
+-	There is the potential to fit the model to data to inform responses in an actual outbreak
+
 For more information about USDOS please see the published [literature](https://webblabb.github.io/usammusdos/literature).
 
 
