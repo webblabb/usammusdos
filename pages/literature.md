@@ -1,7 +1,7 @@
 ---
 title: Literature
 keywords: literature
-last_updated: May 7, 2024
+last_updated: May 8, 2024
 tags:
 summary: A list of published literature related to the USAMM/USDOS project.
 permalink: literature.html
