@@ -100,7 +100,7 @@ Our overall modeling philosophy has three main components:
                                 <p> To cite this page: Webb, C.T., Wennergren, U., Lindström, T., Tildesley, M.J., Dewey, T., Beck-Johnson, L.M., Sellman, S., and Leach, C. 2024. U.S. Animal Movement Model and Disease Outbreak Simulation (On-line). Accessed (date) at  https://webblabb.github.io/usammusdos
                                 </p>
 
-                                <p> To cite USDOS: U.S. Disease Outbreak Simulation (USDOS) [Computer Software]. 2022. Accessed (date) at https://webblabb.github.io/usammusdos/usdos.html
+                                <p> To cite USDOS: Gilbertson, K., Brommesson, P., Minter, A., Hallman, C., Miller, R.S., Portacci, K., Sellman, S., Tildesley, M.J., Webb, C.T., Lindström, T., Beck-Johnson, L.M. 2022. **The Importance of Livestock Demography and Infrastructure in Driving Foot and Mouth Disease Dynamics.** [Life 12 (10)](https://doi.org/10.3390/life12101604) 
                                 </p>
 
                                 <p> To cite USAMM-Swine: 
