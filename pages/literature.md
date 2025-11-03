@@ -9,6 +9,10 @@ folder: pages
 toc: false
 ---
 
+Smith, S.M., Hallman, C., Lindström, T., Sellman, S., Miller, R.S., Portacci, K., Webb, C.T. and Beck-Johnson, L.M., 2025. United States cattle market location and annual market sales estimate data. [Data in Brief, p.111877](https://doi.org/10.1016/j.dib.2025.111877).
+
+Smith, S.M., Webb, C.T., Sellman, S., Lindström, T. and Beck-Johnson, L.M., 2025. Potential benefits of adaptive control strategies are outweighed by costs of infrequent, but dramatically larger disease outbreaks. [Royal Society Open Science, 12(8), p.250598](https://doi.org/10.1098/rsos.250598).
+
 Beck-Johnson, L.M., Gorsich, E.E., Hallman, C., Tildesley, M.J., Miller, R.S., Webb, C.T. 2023. **An exploration of within-herd dynamics of a transboundary livestock disease: A foot and mouth disease case study.** [Epidemics, 42, 100668](https://doi.org/10.1016/j.epidem.2023.100668)
 
 Sellman, S., Beck-Johnson, L.M., Hallman, C., Miller, R.S., Owers Bonner, K.A., Portacci, P.,  Webb, C.T., Lindström, T. 2022. **Modeling Nation-Wide U.S. Swine Movement Networks at the Resolution of the Individual Premises.** [Epidemics 41 (December)](https://doi.org/10.1016/j.epidem.2022.100636) 
