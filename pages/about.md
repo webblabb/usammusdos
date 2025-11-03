@@ -46,7 +46,11 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/Brommesson.jpg" style = "width:200px"> | **Peter Brommesson** - <br/> Title: PhD  <br/> Affiliations: Linköping University, Department of Physics, Chemistry, and Biology <br/> Role: Senior Personnel <br/> Contact info: peter.brommesson@liu.se |
 
+| <img src = "images/bberger2022.jpg" style = "width:200px"> | **Brooke Berger** -  <br/> Title: Postdoctoral Scholar <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: brooke.berger@colostate.edu |
+
 | <img src = "images/JBertram_Nov2022.jpeg" style = "width:200px"> | **Jonathan Bertram** -  <br/> Title: Research Associate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: jh.bertram@colostate.edu |
+
+| <img src = "images/CBrandon2025.jpeg" style = "width:200px"> | **Christopher Brandon** -  <br/> Title: PhD Student <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: christopher.brandon@colostate.edu |
 
 | <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University School of Medicine <br/> Role: Senior Personnel <br/> Contact info: mbuhnerkempe66@siumed.edu |
 
