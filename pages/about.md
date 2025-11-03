@@ -54,7 +54,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/buhnerkempe.jpg" style = "width:200px"> | **Michael Buhnerkempe** - <br/> Title: Research Assistant Professor <br/> Affiliations: Southern Illinois University School of Medicine <br/> Role: Senior Personnel <br/> Contact info: mbuhnerkempe66@siumed.edu |
 
-| <img src = "images/dominika_decpeevy.jpg" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title:  <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
+| <img src = "images/dominika_decpeevy.jpg" style = "width:200px"> | **Dominika Dec Peevey** -  <br/> Title: Research Associate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Dominika.Peevey@colostate.edu |
 
 | <img src = "images/kgilbertson.jpeg" style = "width:200px"> | **Kendra Gilbertson** -  <br/> Title: PhD Candidate <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: Kendra.Gilbertson@colostate.edu |
 
@@ -78,7 +78,7 @@ Our overall modeling philosophy has three main components:
 
 | <img src = "images/bsimony_hiking.jpg" style = "width:200px"> | **Brandon Simony** -  <br/> Title: PhD Candidate <br/> Affiliations:  Pennsylvania State University, Department of Biology <br/> Role: Personnel <br/> Contact info: |
 
-| <img src = "images/LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info: Lauren.E.Smith@colostate.edu |
+| <img src = "images/LaurenSmith_headshot.jpg" style = "width:200px"> | **Lauren Smith** -  <br/> Title: Research Associate <br/> Affiliations: USDA <br/> Role: Personnel <br/> Contact info: Lauren.E.Smith@colostate.edu |
 
 | <img src = "images/SamHeadShot2024.jpg" style = "width:200px"> | **Sam Smith** -  <br/> Title: Research Associate II <br/> Affiliations:  Colorado State University, Department of Biology <br/> Role: Personnel <br/> Contact info: sm.smith@colostate.edu |
 
